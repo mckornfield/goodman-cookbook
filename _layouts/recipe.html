@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id="wrapper">
+      {% include nav.html %}
+      <h2 id="title">{{page.title}}</h2>
+      {% if content contains "<!-- ad -->" %}
+        <div id="ingredients">
+            <h3>Ingredients for {{page.persons}} persons:</h3>
+          {{ content | split:"<!-- ad -->" | first }}
+        </div> <!-- /ingredients -->
+        <div id="picture">
+          {% if page.image %}
+            <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
+          {% else %}
+            <img src="https://dummyimage.com/300x200/de1bde/ffffff.png" alt="Recipe"/>
+          {% endif %}
+        </div> <!-- /picture -->
+
+        <div id="steps">
+            <h3>Preparation:</h3>
+          {{ content | split:"<!-- ad -->" | last }}
+        </div> <!-- /steps -->
+
+      {% else %}
+        {{ content }}
+      {% endif %}
+      <!--
+      <div id="comment">
+      </div> -->
+     <!-- /comment -->
+     <div id="back">
+       <a href="{{site.url}}{{site.baseurl}}/">
+           back to index
+       </a>
+     </div> <!-- /back -->
+    </div> <!-- /wrapper -->
+  </body>
+</html>

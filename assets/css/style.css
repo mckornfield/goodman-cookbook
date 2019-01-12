@@ -1,0 +1,173 @@
+body {
+  background-color: #ffffff;
+  margin-top: 0px; /* I hate these standard margins. */
+}
+
+#wrapper {
+  margin: 30px auto;
+  max-width: 1000px;
+  padding-top: 30px;
+  padding-left: 60px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  background: url(recipe_bg.png) top left;
+  background-repeat: round;
+  box-shadow: 8px 5px 5px -5px rgba(0,0,0,0.75);
+  background-size: contain;
+}
+
+h3, h2 {
+  font-family: "Titilium Web", cursive;
+}
+
+a {
+  color: #00ade3;
+  font-family: "Kalam", sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b20436;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #690220;
+  text-decoration: none;
+}
+
+#table-of-contents {
+  font-size: 1.2em;
+}
+
+#title {
+  text-align: center;
+  font-family: "Titilium Web";
+  padding-bottom: 20px;
+  clear: both;
+}
+
+#lefttitle {
+  text-align: left;
+  font-family: "Titilium";
+  padding-bottom: 20px;
+  padding-left: 40px;
+}
+
+#prev, #next, #prev a, #next a, #back, #back a {
+  font-size: 1.1em;
+  color: #00ade3;
+}
+
+#prev {
+  float: left;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+#next {
+  float: right;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+#back {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#logo {
+  min-height: 150px;
+  max-height: 300px;
+  background: url(goodman_fam.jpg) no-repeat center;
+  background-size: contain;
+}
+
+#ingredients {
+  float: left;
+  font-family: "Kalam", sans-serif;
+  width: 60%;
+}
+
+#ingredients > table {
+  padding: 5px;
+  width: 90%;
+}
+
+#ingredients tr:nth-child(odd) {
+   background-color: #eee;
+}
+
+#ingredients td:nth-child(odd) {
+  width: 30%;
+}
+
+#ingredients td:nth-child(even) {
+  width: 70%;
+}
+
+#picture {
+  width: 40%;
+  text-align: center;
+  float: right;
+}
+
+#picture > img {
+  background: #fff;
+  padding: 5px 5px 20px 5px;
+  max-width: 90%;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.2);
+  transform: rotate(8deg);
+}
+
+#steps {
+  padding-top: 30px;
+  clear: both;
+  font-family: "Titilium Web", sans-serif;
+  line-height: 1;
+}
+
+ul {
+  list-style-type: square;
+  color: #00ade3;
+}
+
+#comment {
+  font-family: "Titilium Web", sans-serif;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 850px) {
+  #wrapper {
+    width: auto;
+    margin: 0 auto;
+    padding: 10px;
+    background: #fffef8;
+    box-shadow: 0px 5px 5px -5px rgba(0,0,0,0.75);
+  }
+
+  #ingredients {
+    display: block;
+    width: 100%;
+    float: none;
+    padding-bottom: 10px;
+  }
+
+  #ingredients > table {
+    width: 100%;
+  }
+
+  #picture {
+    float: none;
+    display: block;
+    width: 50%;
+  }
+
+  #picture > img {
+    transform: none;
+  }
+
+  #steps {
+    width: 100%;
+  }
+}

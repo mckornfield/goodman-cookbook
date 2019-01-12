@@ -1,0 +1,30 @@
+{% if page.previous %}
+  <div id="prev">
+    &#x21FD;&nbsp;
+    <a href="{{site.url}}{{site.baseurl}}{{page.previous.url}}">
+        previous
+    </a>
+  </div>
+{% else %}
+  <div id="prev" style="visibility:hidden">
+    &#x21FD;&nbsp;
+    <a href="{{site.url}}{{site.baseurl}}/">
+        previous
+    </a>
+  </div>
+{% endif %}
+{% if page.next %}
+  <div id="next">
+    <a href="{{site.url}}{{site.baseurl}}{{page.next.url}}">
+        next
+    </a>
+    &nbsp;&#x21FE;
+  </div>
+{% else %}
+  <div id="next" style="visibility:hidden">
+    &#x21FD;&nbsp;
+    <a href="{{site.url}}{{site.baseurl}}/">
+        next
+    </a>
+  </div>
+{% endif %}
