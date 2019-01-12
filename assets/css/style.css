@@ -1,6 +1,7 @@
 body {
   font-family: "Titilium Web";
   padding: 20px;
+  padding-left:40px;
   background: #f1f1f1;
 }
 
@@ -41,9 +42,12 @@ a:visited {
   text-decoration: none;
 }
 
+#section-title {
+  font-family: "Titilium Web";
+}
+
 #table-of-contents {
-  font-size: 1.2em;
-  padding-left: 20px;
+  padding-left: 40px;
 }
 
 #title {

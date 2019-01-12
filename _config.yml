@@ -1,5 +1,5 @@
 name: Goodman Family Cookbook
 markdown: kramdown
 collections:
-  recipes:
+  appetizers:
     output: true

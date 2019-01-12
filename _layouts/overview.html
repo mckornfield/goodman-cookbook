@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body>
-    <div id="wrapper">
-      <div id="logo">&nbsp;</div>
-      <h1 id="lefttitle">{{page.title}}</h1>
-      <div id="note-on-ingredients">
-          <a href="{{site.url}}{{site.baseurl}}/about.html">A Note on Ingredients and Techniques</a>
-      </div>
-      <div id="table-of-contents">
-          <ul id="toc">
-            {% for recipe in site.recipes %}
-                <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-            {% endfor %}
-          </ul>
-      </div> <!-- /table-of-contents -->
-      <div>
-        <p>
-          {{content}}
-        </p>
-      </div>
-    </div> <!-- /wrapper -->
-  </body>
+{% include head.html %}
+
+<body>
+  <div id="wrapper">
+    <div id="logo">&nbsp;</div>
+    <h1 id="lefttitle">{{page.title}}</h1>
+    <div id="note-on-ingredients">
+      <a href="{{site.url}}{{site.baseurl}}/about.html">A Note on Ingredients and Techniques</a>
+    </div>
+    <div id="table-of-contents">
+      <h3 id="section-title">Appetizers</h3>
+      <ul id="toc">
+        {% for recipe in site.appetizers %}
+        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </div> <!-- /table-of-contents -->
+    <div>
+      <p>
+        {{content}}
+      </p>
+    </div>
+  </div> <!-- /wrapper -->
+</body>
+
 </html>
