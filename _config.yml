@@ -3,3 +3,5 @@ markdown: kramdown
 collections:
   appetizers:
     output: true
+  soups_and_salads:
+    output: true
