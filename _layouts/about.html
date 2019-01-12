@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body>
+    <div id="wrapper">
+        <div id="logo">&nbsp;</div>
+        <h1 id="lefttitle">{{page.title}}</h1>
+        <div>
+            {{content}}
+        </div>
+        <div id="back">
+            <a href="{{site.url}}{{site.baseurl}}/">
+                Back to table of contents
+            </a>
+        </div> <!-- /back -->
+    </div> <!-- /wrapper -->
+</body>
+
+</html>

@@ -43,6 +43,7 @@ a:visited {
 
 #table-of-contents {
   font-size: 1.2em;
+  padding-left: 20px;
 }
 
 #title {
@@ -100,6 +101,9 @@ a:visited {
 
 #ingredients tr:nth-child(odd) {
    background-color: #eee;
+}
+#note-on-ingredients {
+  padding-left: 40px;
 }
 
 #ingredients td:nth-child(odd) {
