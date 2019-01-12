@@ -5,9 +5,14 @@
     <div id="wrapper">
       {% include nav.html %}
       <h2 id="title">{{page.title}}</h2>
+      {% if page.serving_info %}
+      <h4 id="serving_info">{{page.serving_info}}</h4>
+      {% endif %}
+      {% if page.anecdote %}
+        <h5 id="anecdote"><i>{{page.anecdote}}</i></h5>
+      {% endif %}
       {% if content contains "<!-- split -->" %}
         <div id="ingredients">
-            <h3>Ingredients for {{page.persons}} persons:</h3>
           {{ content | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
@@ -26,10 +31,6 @@
       {% else %}
         {{ content }}
       {% endif %}
-      <!--
-      <div id="comment">
-      </div> -->
-     <!-- /comment -->
      <div id="back">
        <a href="{{site.url}}{{site.baseurl}}/">
            Back to table of contents

@@ -52,8 +52,17 @@ a:visited {
 #title {
   text-align: center;
   font-family: "Titilium Web";
-  padding-bottom: 20px;
   clear: both;
+}
+
+#anecdote {
+  text-align: center;
+  font-family: "Titilium Web";
+}
+
+#serving_info {
+  text-align: center;
+  font-family: "Titilium Web";
 }
 
 #lefttitle {
@@ -93,7 +102,7 @@ a:visited {
 
 #ingredients {
   float: left;
-  font-family: "Titilium Web", sans-serif;
+  font-family: sans-serif;
   width: 60%;
 }
 
@@ -129,10 +138,9 @@ a:visited {
 
 #picture > img {
   background: #fff;
-  padding: 5px 5px 20px 5px;
-  max-width: 90%;
+  padding: 5px 5px 5px 5px;
+  max-width: 80%;
   box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.2);
-  transform: rotate(8deg);
 }
 
 #steps {

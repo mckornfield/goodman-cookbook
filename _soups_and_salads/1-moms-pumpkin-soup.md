@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: Mom's Pumpkin Soup
-persons: 4
+anecdote: I am sure you all remember this soup from Drew and Kelly’s groom’s dinner. Your mother asked the chef at Pascal’s to make her recipe for the dinner. After the dinner the chef asked her how she liked her pumpkin soup. Your mother answered, “It was a good pumpkin soup but not mine.” Here’s hers.
+serving_info: Makes 1 1⁄2 quarts
 imageurl: https://nomorefashionvictims.com/wp-content/uploads/2016/12/Moms-Creamy-Pumpkin-Soup-1000x600.jpg
 ---
 <!-- Ingredients -->
@@ -10,8 +11,8 @@ imageurl: https://nomorefashionvictims.com/wp-content/uploads/2016/12/Moms-Cream
 |1⁄2|teaspoons salt|
 |1⁄4 cup|butter|
 |2 cups|heavy cream|
-|1⁄4 teaspoon| curry powder|
-|2 1⁄4 cups| chicken stock|
+|1⁄4 teaspoon|curry powder|
+|2 1⁄4 cups|chicken stock|
 |2 cups|canned pumpkin (not pumpkin pie filling)|
 |1 dollop|sour cream (optional)|
 
