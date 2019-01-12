@@ -2,7 +2,7 @@
 layout: about
 title: A Note on Ingredients and Techniques
 ---
-A few words of explanation for some of the ingredients and directions in this book:
+<i>A few words of explanation for some of the ingredients and directions in this book:</i>
 <br><br>
 Olive oil is “extra virgin.” 
 <br><br>
@@ -18,10 +18,10 @@ The butter is always unsalted.
 <br><br>
 We also found a few techniques that, to us, make a big difference in the final outcome. Listed below are a couple of these:
 <br><br>
-Brining: We find that chicken and pork are juicer and shrimp are finner when brined. If you use kosher chicken, it does not need to be brined as that is part of the koshering process.
+<b>Brining</b>: We find that chicken and pork are juicer and shrimp are finner when brined. If you use kosher chicken, it does not need to be brined as that is part of the koshering process.
 <br><br>
 For chicken and pork: in a one-gallon storage bag or bowl, dissolve one-half cup kosher salt and one-quarter cup sugar in one gallon of water. Place chicken or pork in the brine and refrigerate for one hour; any longer and they will be too salty. Rinse, pat thy and then cook by the recipe method.
 <br><br>
 For shrimp, mix one-quarter cup salt in two quarts of water and brine the shrimp for one-half hour in the refrigerator. Rinse and pat city.
 <br><br>
-Chicken: While more expensive, we much prefer the taste and texture of kosher or free range chickens. The meat is firm and does not have that “chickcny” taste. Try one and see if you like the difference.
+<b>Chicken</b>: While more expensive, we much prefer the taste and texture of kosher or free range chickens. The meat is firm and does not have that “chickcny” taste. Try one and see if you like the difference.
