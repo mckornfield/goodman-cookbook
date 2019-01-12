@@ -5,22 +5,22 @@
     <div id="wrapper">
       {% include nav.html %}
       <h2 id="title">{{page.title}}</h2>
-      {% if content contains "<!-- ad -->" %}
+      {% if content contains "<!-- split -->" %}
         <div id="ingredients">
             <h3>Ingredients for {{page.persons}} persons:</h3>
-          {{ content | split:"<!-- ad -->" | first }}
+          {{ content | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
           {% if page.image %}
             <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
-          {% else %}
-            <img src="https://dummyimage.com/300x200/de1bde/ffffff.png" alt="Recipe"/>
+          {% else if page.imageurl %}
+          <img src="{{page.imageurl}}" alt="Recipe"/>
           {% endif %}
         </div> <!-- /picture -->
 
         <div id="steps">
-            <h3>Preparation:</h3>
-          {{ content | split:"<!-- ad -->" | last }}
+            <h3>Steps:</h3>
+                {{ content | split:"<!-- split -->" | last }}
         </div> <!-- /steps -->
 
       {% else %}

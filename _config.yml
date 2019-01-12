@@ -1,2 +1,6 @@
 name: Goodman Family Cookbook
 markdown: kramdown
+collections:
+  recipes:
+    output: true
+    permalink: /recipe/:title
