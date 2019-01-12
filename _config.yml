@@ -3,4 +3,4 @@ markdown: kramdown
 collections:
   recipes:
     output: true
-    permalink: /recipe/:title
+    permalink: /goodman-cookbook/recipe/:title
