@@ -116,6 +116,10 @@ a:visited {
   float: right;
 }
 
+#toc{
+  color: #690220;
+}
+
 #picture > img {
   background: #fff;
   padding: 5px 5px 20px 5px;
