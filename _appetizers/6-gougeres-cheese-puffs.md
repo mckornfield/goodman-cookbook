@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: Cheese Straws
-imageurl: https://www.saveur.com/sites/saveur.com/files/styles/655_1x_/public/import/2008/images/2008-11/626-32_cheese_straws_300.jpg?itok=_i4WhrJJ
+title: Gougeres Cheese Puffs
+imageurl: http://old.lostrecipesfound.com/wp-content/uploads/2012/04/Gougeres-Cheese-Puffs-450.jpg
 ---
 <!-- Ingredients -->
 
@@ -26,4 +26,3 @@ imageurl: https://www.saveur.com/sites/saveur.com/files/styles/655_1x_/public/im
 6. Either spoon mixture into pastry bag and pipe or drop batter in small spoonfuls onto a lightly greased cookie sheet or a cookie sheet covered with parchment paper.
 7. Brush tops of uncooked gougeres with egg wash.
 8. Bake for 15 minutes, until golden brown but still soft inside. Serve hot from oven or allow to cool to room temperature. 
-
