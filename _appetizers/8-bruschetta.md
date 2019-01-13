@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Mom's Pumpkin Soup
+title: Bruschetta with 3 Toppings
 anecdote: Great assorted appetizer for company. It is made ahead and everyone helps themselves.
 serving_info: About 40 bruschetta
 imageurl: https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/04/bruschetta-recipe-1.jpg?itok=KBIkMR7G
