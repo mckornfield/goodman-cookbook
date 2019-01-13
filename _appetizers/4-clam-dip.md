@@ -13,4 +13,7 @@ imageurl: http://tsgcookin.com/wp-content/uploads/2013/02/Clam+Dip+138-square-2.
 
 <!-- split -->
 <!-- Steps -->
-Drain one can of either minced or chopped clams, retaining the liquid. Combine the clams with 8 oz. of cream cheese, adding retained clam juice until dip reaches the desired consistency. Add 1⁄4 teaspoon of Worcestershire sauce (to taste) and garlic salt (to taste.) Serve with Fritos.
+* Drain one can of either minced or chopped clams, retaining the liquid.
+* Combine the clams with 8 oz. of cream cheese, adding retained clam juice until dip reaches the desired consistency.
+* Add 1⁄4 teaspoon of Worcestershire sauce (to taste) and garlic salt (to taste.)
+* Serve with Fritos.
