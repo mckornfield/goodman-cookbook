@@ -7,10 +7,10 @@ imageurl: https://www.saveur.com/sites/saveur.com/files/styles/655_1x_/public/im
 
 | 1+ | frozen pastry sheets | 
 | 1 | egg |
-| to taste | Parmesan cheese |
-| to taste | oregano |
-| to taste | basil |
-| to taste | cayenne pepper |
+| (optional) | Parmesan cheese |
+| (optional) | oregano |
+| (optional) | basil |
+| (optional) | cayenne pepper |
 
 <!-- split -->
 <!-- Steps -->
