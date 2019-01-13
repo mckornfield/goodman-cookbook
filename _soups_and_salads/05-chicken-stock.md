@@ -5,10 +5,7 @@ imageurl: https://www.asweetpeachef.com/wp-content/uploads/2010/12/making-chicke
 ---
 <!-- Ingredients -->
 
-| 1 | turkey carcass, fat removed |
-| OR | |
-| 8 | chicken backs, fat removed |
-| | |
+| 1 | turkey carcass or 8 chicken backs, fat removed |
 | 2 | carrots, rough chopped |
 | 2 | celery stalks, chopped |
 | 1 | onion, roughly chopped |
