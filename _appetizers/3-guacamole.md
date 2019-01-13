@@ -8,7 +8,7 @@ imageurl: https://www.mylatinatable.com/wp-content/uploads/2018/05/guacamole-fot
 | 3 | medium ripe avoados | 
 | 1⁄3 | onion, chopped |
 | 1⁄2 cup | medium salsa|
-| 2 teaspoons | salt |
+| 2 teaspoons | Worcestershire sauce |
 | 1 1⁄2 teaspoons | garlic salt |
 | 1⁄4 cup | lemon or lime juice|
 || tabasco sauce to taste |
