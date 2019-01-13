@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Guacamole
-imageurl: https://gimmedelicious.com/wp-content/uploads/2018/05/The-Best-Chunky-Guacamole.jpg
+imageurl: https://www.mylatinatable.com/wp-content/uploads/2018/05/guacamole-foto-heroe-1024x723-500x500.jpg
 ---
 <!-- Ingredients -->
 
