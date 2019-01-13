@@ -29,8 +29,11 @@ Note: If you want to freeze part of the soup to use at a later date; prior to ad
 <br><br>
 <b>Bean Soup Variations</b>
 <br><br>
-1. Use marrow bones instead of ham/bacon. Brown bones in a 350° oven for 45 minutes prior to using them. Omit pasta and add a bay leaf, 1 tablespoon of oregano and 1 tablespoon of basil. 
-2. Use smoked pork neck bones instead of ham/bacon. Brown them in the oven at 350° for 45 minutes. Omit pasta and add a bay leaf, oregano and basil. 
-3. Use sautéed andouille sausage and Cajun spices instead of ham/bacon. 
-4. Use browned soup bones to replace ham/bacon and add lima beans instead of pasta. 
+(1) Use marrow bones instead of ham/bacon. Brown bones in a 350° oven for 45 minutes prior to using them. Omit pasta and add a bay leaf, 1 tablespoon of oregano and 1 tablespoon of basil.
+<br>
+(2) Use smoked pork neck bones instead of ham/bacon. Brown them in the oven at 350° for 45 minutes. Omit pasta and add a bay leaf, oregano and basil.
+<br>
+(3) Use sautéed andouille sausage and Cajun spices instead of ham/bacon.
+<br>
+(4) Use browned soup bones to replace ham/bacon and add lima beans instead of pasta.
 
