@@ -5,3 +5,5 @@ collections:
     output: true
   soups_and_salads:
     output: true
+  sides:
+    output: true
