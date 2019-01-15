@@ -1,6 +1,8 @@
 name: Goodman Family Cookbook
 markdown: kramdown
 collections:
+  about:
+    output: true
   appetizers:
     output: true
   soups_and_salads:

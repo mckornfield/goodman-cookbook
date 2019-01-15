@@ -7,7 +7,9 @@
     <div id="logo">&nbsp;</div>
     <h1 id="lefttitle">{{page.title}}</h1>
     <div id="note-on-ingredients">
-      <a href="{{site.url}}{{site.baseurl}}/about.html">A Note on Ingredients and Techniques</a>
+      {% for info in site.about %}
+      <div><a href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a></div>
+      {% endfor %}
     </div>
     <div id="table-of-contents">
       <h3 id="section-title">Appetizers</h3>
