@@ -3,7 +3,7 @@ layout: recipe
 title: Mom's Turkey Stuffing
 anecdote: Ain't none better. 
 serving_info: 6 servings
-imageurl: https://nomorefashionvictims.com/wp-content/uploads/2016/12/Moms-Creamy-Pumpkin-Soup-1000x600.jpg
+imageurl: https://cdn.cpnscdn.com/static.coupons.com/ext/kitchme/images/recipes/600x400/thanksgiving-stuffing-stove-top_19791.jpg
 ---
 <!-- Ingredients -->
 
