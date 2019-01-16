@@ -8,7 +8,7 @@
     <h1 id="lefttitle">{{page.title}}</h1>
     <div id="note-on-ingredients">
       {% for info in site.about %}
-      <div><a href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a></div>
+      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>
       {% endfor %}
     </div>
     <div id="table-of-contents">
