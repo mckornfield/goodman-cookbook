@@ -24,4 +24,4 @@ For chicken and pork: in a one-gallon storage bag or bowl, dissolve one-half cup
 <br><br>
 For shrimp, mix one-quarter cup salt in two quarts of water and brine the shrimp for one-half hour in the refrigerator. Rinse and pat city.
 <br><br>
-<b>Chicken</b>: While more expensive, we much prefer the taste and texture of kosher or free range chickens. The meat is firm and does not have that “chickcny” taste. Try one and see if you like the difference.
+<b>Chicken</b>: While more expensive, we much prefer the taste and texture of kosher or free range chickens. The meat is firm and does not have that “chickeny” taste. Try one and see if you like the difference.
