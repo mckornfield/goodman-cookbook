@@ -9,3 +9,5 @@ collections:
     output: true
   sides:
     output: true
+  meats:
+    output: true
