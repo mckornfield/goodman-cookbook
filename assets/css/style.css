@@ -191,12 +191,17 @@ a:hover {
 #button-links {
   background-color: #34c4e3;
   color: white;
-  padding: 14px 25px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   padding-bottom: 10px;
 }
+
+#button-wrapper {
+  padding-bottom:5px;
+}
+
 a {
   color: #00ade3;
   font-family: "Titilium Web";

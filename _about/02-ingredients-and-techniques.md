@@ -1,6 +1,6 @@
 ---
 layout: about
-title: A Note on Ingredients and Techniques
+title: Ingredients and Techniques
 ---
 <i>A few words of explanation for some of the ingredients and directions in this website:</i>
 <br><br>
