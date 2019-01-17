@@ -189,7 +189,7 @@ a:hover {
 }
 
 #button-links {
-  background-color: #34c4e3;
+  background-color: #0066cc;
   color: white;
   padding: 10px 15px;
   text-align: center;
@@ -203,7 +203,7 @@ a:hover {
 }
 
 a {
-  color: #00ade3;
+  color: #0066cc;
   font-family: "Titilium Web";
   text-decoration: none;
 }
