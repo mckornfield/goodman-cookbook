@@ -9,12 +9,12 @@ imageurl: https://www.foodnetwork.com/content/dam/images/food/video/0/01/015/015
 | 2 lb. | finely ground beef |
 | 1 lb. |finely ground pork |
 | 1 lb. | finely ground veal |
-| 8 egg yolks, beaten |
+| 8 | egg yolks, beaten |
 | 4 teaspoons | salt |
 | 1/2 teaspoon | allspice |
 | 1 cup | heavy cream |
 | 1 cup | milk, or more if needed |
-| 8 tablespoons onion, finely minced
+| 8 tablespoons | onion, finely minced |
 | 1/2 teaspoons | black pepper |
 | 12 tablespoons | vegetable oil |
 
