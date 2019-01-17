@@ -42,21 +42,21 @@ a:hover {
 }
 
 #title {
-  padding: 2px;
+  padding: 5px;
   text-align: center;
   font-family: "Titilium Web";
   clear: both;
 }
 
 #anecdote {
-  padding: 2px;
+  padding: 5px;
   text-align: center;
   font-family: "Titilium Web";
   clear: both;
 }
 
 #serving_info {
-  padding: 2px;
+  padding: 5px;
   text-align: center;
   font-family: "Titilium Web";
 }
