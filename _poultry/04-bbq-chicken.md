@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Turkey or Chicken Divan
+title: BBQ Chicken
 anecdote: This recipe works well on a BBQ or in the oven.
 serving_info: 4 servings
 # NEW IMAGE
