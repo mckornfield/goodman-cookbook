@@ -2,8 +2,7 @@
 layout: recipe
 title: Stuffed Green Peppers
 serving_info: 3 or 4 servings
-# CHANGE URL BELOW!!!
-imageurl: https://vintagerecipecards.files.wordpress.com/2011/02/untitled-11252421146.jpg?w=600
+imageurl: https://i.pinimg.com/originals/ca/56/d0/ca56d070573abac94f4c2236fc2c7751.jpg
 ---
 <!-- Ingredients -->
 
