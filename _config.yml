@@ -11,3 +11,5 @@ collections:
     output: true
   meats:
     output: true
+  poultry:
+    output: true
