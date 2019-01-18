@@ -15,6 +15,7 @@ body {
   background-repeat: round;
   box-shadow: 8px 5px 5px -5px rgba(0,0,0,0.75);
   background-size: contain;
+  overflow:auto;
 }
 
 h3, h2, h5, h4 {
@@ -112,8 +113,15 @@ a:hover {
    background-color: #eee;
 }
 #note-on-ingredients {
-  padding-left: 40px;
   padding-bottom: 10px;
+  text-align: center;
+  /*column-count: 2;*/
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
 }
 
 #ingredients td:nth-child(odd) {
@@ -188,6 +196,19 @@ a:hover {
   #steps {
     width: 100%;
   }
+
+  .column {
+    width: 100%;
+    clear: both;
+  }
+  section {
+    clear: both;
+  }
+}
+
+section {
+  float: left;
+  width: 50%;
 }
 
 #button-links {
@@ -202,6 +223,7 @@ a:hover {
 
 #button-wrapper {
   padding-bottom:5px;
+  display:inline;
 }
 
 a {

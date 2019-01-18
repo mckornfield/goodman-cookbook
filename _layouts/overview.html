@@ -5,13 +5,13 @@
 <body>
   <div id="wrapper">
     <div id="logo">&nbsp;</div>
-    <h1 id="lefttitle">{{page.title}}</h1>
+    <h1 id="title">{{page.title}}</h1>
     <div id="note-on-ingredients">
       {% for info in site.about %}
-      <div id="button-wrapper"><a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a></div>
-      {% endfor %}
+      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a><span style="width: 500px"></span> {% endfor %}
     </div>
-    <div id="table-of-contents">
+    <!-- <div id="table-of-contents" class="column"> -->
+    <section>
       <h3 id="section-title">Appetizers</h3>
       <ul id="toc">
         {% for recipe in site.appetizers %}
@@ -24,6 +24,9 @@
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
+    </section>
+    <!-- <div id="table-of-contents" class="column"> -->
+    <section>
       <h3 id="section-title">Sides</h3>
       <ul id="toc">
         {% for recipe in site.sides %}
@@ -36,7 +39,7 @@
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
-    </div> <!-- /table-of-contents -->
+    </section> <!-- /table-of-contents -->
     <div>
       <p>
         {{content}}
