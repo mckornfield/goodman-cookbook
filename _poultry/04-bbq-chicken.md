@@ -3,8 +3,7 @@ layout: recipe
 title: BBQ Chicken
 anecdote: This recipe works well on a BBQ or in the oven.
 serving_info: 4 servings
-# NEW IMAGE
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: https://www.seriouseats.com/recipes/images/20090520-barbecue-chicken.jpg
 ---
 <!-- Ingredients -->
 

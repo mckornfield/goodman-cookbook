@@ -2,8 +2,7 @@
 layout: recipe
 title: Roasted Chicken
 serving_info: 4 to 6 servings
-# NEW IMAGE
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/23/0/FN_perfect-chicken-014_s4x3.jpg.rend.hgtvcom.616.462.suffix/1384540895467.jpeg
 ---
 <!-- Ingredients -->
 

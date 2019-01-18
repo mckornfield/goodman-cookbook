@@ -2,8 +2,7 @@
 layout: recipe
 title: Chicken or Turkey Tetrazzini
 serving_info: 6 to 8 servings
-# NEW IMAGE
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: http://assets.kraftfoods.com/recipe_images/opendeploy/136910_640x428.jpg
 ---
 <!-- Ingredients -->
 

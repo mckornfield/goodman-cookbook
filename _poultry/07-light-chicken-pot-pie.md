@@ -3,8 +3,7 @@ layout: recipe
 # THIS ONE REQUIRES NEW LAYOUT
 title: Light Chicken Pot Pie
 anecdote: It is best to mix and shape biscuits after making filling and just before baking casserole. Filling must be warm when you top it or biscuits will be gummy. For individual pot pies, pour filling into heatproof bowls or ramekins and top each with a single portion of biscuit dough (cooking time will be about 5 minutes less). 
-# NEW IMAGE
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: https://www.spendwithpennies.com/wp-content/uploads/2013/05/Biscuit-Chicken-Pot-Pie-223-500x500.jpg
 ---
 <!-- Ingredients -->
 

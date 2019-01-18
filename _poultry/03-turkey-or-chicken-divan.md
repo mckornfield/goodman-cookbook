@@ -3,8 +3,7 @@ layout: recipe
 title: Turkey or Chicken Divan
 anecdote: This is a great reicpe to use for Thanksgiving turkey leftovers. But is equally great with chicken breasts.
 serving_info: 6 to 8 servings
-# NEW IMAGE
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: https://glutenfreehomemaker.com/wp-content/uploads/2015/11/Chicken-Turkey-Divan-in-Dish.jpg
 ---
 <!-- Ingredients -->
 
