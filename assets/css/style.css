@@ -226,6 +226,18 @@ section {
   display:inline;
 }
 
+.search{
+  padding: 8px;
+  padding-right: 15px;
+  font-size: 17px;
+}
+
+#search-button{
+  padding: 12px;
+  border-left: none;
+  cursor: pointer;
+}
+
 a {
   color: #0066cc;
   font-family: "Titilium Web";
