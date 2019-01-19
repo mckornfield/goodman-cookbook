@@ -112,9 +112,12 @@ a:hover {
 #ingredients tr:nth-child(odd) {
    background-color: #eee;
 }
+
 #note-on-ingredients {
   padding-bottom: 10px;
   text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .divider{
@@ -177,6 +180,13 @@ a:hover {
     padding-bottom: 10px;
   }
 
+  #note-on-ingredients {
+vertical-align: center;
+text-align: center;
+padding-left: 0px;
+
+  }
+
   #ingredients > table {
     width: 100%;
   }
@@ -215,11 +225,10 @@ section {
 #button-links {
   background-color: #0066cc;
   color: white;
-  padding: 10px 15px;
+  padding: 10px 16px;
   text-align: center;
   text-decoration: none;
   margin-left: 15px;
-  vertical-align: middle;
 }
 
 #button-wrapper {
@@ -227,19 +236,16 @@ section {
 }
 
 .search{
-  vertical-align: middle;
   padding: 8px;
   font-size: 15px;
 }
 
 .container {
-  display: inline;
-  white-space: nowrap;
+  display: inline-block;
 }
 
 #search-button{
-  vertical-align: middle;
-  font-size: 16px;
+  font-size: 15px;
   padding: 8px;
   cursor: pointer;
 }
