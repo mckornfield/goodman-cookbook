@@ -115,7 +115,6 @@ a:hover {
 #note-on-ingredients {
   padding-bottom: 10px;
   text-align: center;
-  /*column-count: 2;*/
 }
 
 .divider{
@@ -162,7 +161,7 @@ a:hover {
   font-weight: 300;
 }
 
-@media screen and (max-width: 850px) {
+@media only screen and (max-width: 850px) {
   #wrapper {
     width: auto;
     margin: 0 auto;
@@ -197,12 +196,15 @@ a:hover {
     width: 100%;
   }
 
-  .column {
-    width: 100%;
-    clear: both;
-  }
   section {
-    clear: both;
+    float: center;
+    width: 90%;
+  }
+  .search {
+  }
+  #button-links {
+    margin-top: 10px;
+    display:inline-block;
   }
 }
 
@@ -217,24 +219,29 @@ section {
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
-  padding-bottom: 10px;
+  margin-left: 15px;
+  vertical-align: middle;
 }
 
 #button-wrapper {
   padding-bottom:5px;
-  display:inline;
 }
 
 .search{
+  vertical-align: middle;
   padding: 8px;
-  padding-right: 15px;
-  font-size: 17px;
+  font-size: 15px;
+}
+
+.container {
+  display: inline;
+  white-space: nowrap;
 }
 
 #search-button{
-  padding: 12px;
-  border-left: none;
+  vertical-align: middle;
+  font-size: 16px;
+  padding: 8px;
   cursor: pointer;
 }
 

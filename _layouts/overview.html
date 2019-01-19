@@ -7,10 +7,12 @@
     <div id="logo">&nbsp;</div>
     <h1 id="title">{{page.title}}</h1>
     <div id="note-on-ingredients">
+      <div class="container">
       <input id="search-bar" type="search" placeholder="Search..." class="search">
-      <!-- <button><i id="search-button" class="fa fa-search"></i></button> -->
+      <button><i id="search-button" class="fa fa-search"></i></button>
+      </div>
       {% for info in site.about %}
-      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a><span style="width: 500px"></span> {% endfor %}
+      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>{% endfor %}
     </div>
     <!-- <div id="table-of-contents" class="column"> -->
     <section>
@@ -48,11 +50,6 @@
         {% endfor %}
       </ul>
     </section> <!-- /table-of-contents -->
-    <div>
-      <p>
-        {{content}}
-      </p>
-    </div>
   </div> <!-- /wrapper -->
 </body>
 <script src="assets/js/search.js"></script>
