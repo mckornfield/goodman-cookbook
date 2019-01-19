@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id="wrapper">
+      {% include nav.html %}
+      <h2 id="title">{{page.title}}</h2>
+      {% if page.anecdote %}
+        <h4 id="anecdote">{{page.anecdote}}</h4>
+      {% endif %}
+      {% if page.serving_info %}
+        <h4 id="serving_info"><i>{{page.serving_info}}</i></h4>
+      {% endif %}
+        <h3 id="subtitle">{{page.first_title}}</h4>
+        <div id="ingredients">
+          {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | first }}
+        </div> <!-- /ingredients -->
+        <div id="picture">
+          {% if page.image %}
+            <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
+          {% else if page.imageurl_one %}
+          <img src="{{page.imageurl_one}}" alt="Recipe"/>
+          {% endif %}
+        </div> <!-- /picture -->
+
+        <div id="steps">
+            <h4>Steps:</h4>
+                {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | last }}
+        </div> <!-- /steps -->
+
+        <h3 id="subtitle">{{page.second_title}}</h3>
+        <div id="ingredients">
+          {{ content | split:"<!-- recipe split -->" | last | split:"<!-- split -->" | first }}
+        </div> <!-- /ingredients -->
+        <div id="picture">
+          {% if page.image %}
+            <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
+          {% else if page.imageurl_one %}
+          <img src="{{page.imageurl_two}}" alt="Recipe"/>
+          {% endif %}
+        </div> <!-- /picture -->
+
+        <div id="steps">
+            <h4>Steps:</h4>
+                {{ content | split:"<!-- recipe split -->" | last | split:"<!-- split -->" | last }}
+        </div> <!-- /steps -->
+
+     <div id="back">
+       <a href="{{site.url}}{{site.baseurl}}/">
+           Back to table of contents
+       </a>
+     </div> <!-- /back -->
+    </div> <!-- /wrapper -->
+  </body>
+</html>

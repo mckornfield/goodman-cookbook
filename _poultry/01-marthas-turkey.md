@@ -1,16 +1,24 @@
 ---
-layout: recipe
-# THIS ONE REQUIRES NEW LAYOUT
+layout: double-recipe
 title: Martha's Turkey
 anecdote: We have used this recipe for many years and it always produces a delicious, moist turkey. This method works well because it takes longer for the dark meat to properly cook than does the breast meat. This means that when the dark meat is done, the breast is over done and dry. Covering the breast with a moist cheesecloth and basting regularly slows the cooking time of the breast allowing more tune for the dark meat to cook to its proper temperature without drying out the white meat. 
-imageurl: https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2014/11/13/MarthasCSSC406_Turkey_lead2_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
+imageurl_one: https://img-aws.ehowcdn.com/640/cme/photography.prod.demandstudios.com/4a96fecc-963c-421c-a532-ee09b941e650.jpg
+imageurl_two: https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2014/11/13/MarthasCSSC406_Turkey_lead2_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
+first_title: Basting Liquid
+second_title: Turkey
 ---
 <!-- Ingredients -->
 
 3 sticks | butter
 1 bottle | white wine
 4 ply piece | cheesecloth, large enough to cover turkey breast and sides, 16" x 14"
-<!-- SPLIT UP Ingredients -->
+
+<!-- split -->
+<!-- Steps -->
+* Heat wine and butter together in a saucepan until the butter is melted. Stir. 
+<!-- recipe split -->
+<!-- Ingredients -->
+
 1 | 15 to 20 lb. turkey
 2 tablespoons | poultry seasoning
 2 tablespoons | salt
@@ -20,9 +28,6 @@ imageurl: https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2014/11/
 1 cup | white wine
 
 <!-- split -->
-<!-- Steps -->
-* Heat wine and butter together in a saucepan until the butter is melted. Stir. 
-
 1. Preheat oven to 450°.
 2. Thoroughly rinse and dry turkey. Let stand at room temperature for 1 to 2 hours. Salt and pepper inside.
 3. You can stuff turkey at this point with your Mother’s stuffing recipe or cook unstuffed, Cooking time will be shorter for a smaller and/or unstuffed turkey. We suggest that stuffed or unstuffed, you use a good cooking thermometer to make sure turkey is cooked properly. Breast should be 160°.
