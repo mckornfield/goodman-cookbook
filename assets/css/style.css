@@ -197,8 +197,7 @@ a:hover {
   }
 
   section {
-    float: center;
-    width: 90%;
+    width: 100% !important;
   }
   .search {
   }
