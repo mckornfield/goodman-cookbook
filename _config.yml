@@ -13,3 +13,5 @@ collections:
     output: true
   poultry:
     output: true
+  fish_and_seafood:
+    output: true

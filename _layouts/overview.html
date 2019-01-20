@@ -26,15 +26,14 @@
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
-    </section>
-    <!-- <div id="table-of-contents" class="column"> -->
-    <section>
       <h3 id="section-title">Sides</h3>
       <ul id="toc">
         {% for recipe in site.sides %}
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
+    </section>
+    <section>
       <h3 id="section-title">Meats</h3>
       <ul id="toc">
         {% for recipe in site.meats %}
@@ -44,6 +43,12 @@
       <h3 id="section-title">Poultry</h3>
       <ul id="toc">
         {% for recipe in site.poultry %}
+        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+        {% endfor %}
+      </ul>
+      <h3 id="section-title">Fish and Seafood</h3>
+      <ul id="toc">
+        {% for recipe in site.fish_and_seafood %}
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
