@@ -11,6 +11,7 @@
       {% if page.serving_info %}
         <h4 id="serving_info"><i>{{page.serving_info}}</i></h4>
       {% endif %}
+        <hr>
         <h3 id="subtitle">{{page.first_title}}</h4>
         <div id="ingredients">
           {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | first }}
@@ -27,6 +28,8 @@
             <h4>Steps:</h4>
                 {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | last }}
         </div> <!-- /steps -->
+
+        <hr>
 
         <h3 id="subtitle">{{page.second_title}}</h3>
         <div id="ingredients">

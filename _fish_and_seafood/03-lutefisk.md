@@ -1,6 +1,6 @@
 ---
 layout: double-recipe
-title: Lutefisk
+title: Lutefisk and Bechamel Sauce
 serving_info: 4 to 100 servings
 anecdote: Mmmh good!
 first_title: Lutefisk
