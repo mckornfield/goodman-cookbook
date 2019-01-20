@@ -15,3 +15,5 @@ collections:
     output: true
   fish_and_seafood:
     output: true
+  pastas:
+    output: true
