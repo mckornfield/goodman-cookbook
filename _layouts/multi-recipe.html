@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div id="wrapper">
+      {% include nav.html %}
+      <h2 id="title">{{page.title}}</h2>
+      {% if page.anecdote %}
+        <h4 id="anecdote">{{page.anecdote}}</h4>
+      {% endif %}
+      {% if page.serving_info %}
+        <h4 id="serving_info"><i>{{page.serving_info}}</i></h4>
+      {% endif %}
+      {% assign recipes = content | split:"<!-- recipe split -->" %} 
+      {% for recipe in recipes %}
+      {% assign split_recipe = recipe | split:"<!-- split -->" %} 
+        <div>
+          <hr>
+          <h3>{{split_recipe[0] | remove:'<p>' | remove:'</p>'}}</h3>
+        </div>
+        <div id="ingredients">
+          {{split_recipe[1]}}
+        </div>
+        <div id="steps">
+          <h4>Steps:</h4>
+          {{split_recipe[2]}}
+        </div> 
+      {% endfor %}
+     <div id="back">
+       <a href="{{site.url}}{{site.baseurl}}/">
+           Back to table of contents
+       </a>
+     </div> <!-- /back -->
+    </div> <!-- /wrapper -->
+  </body>
+</html>
