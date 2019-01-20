@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Vichyssoise a Ia Ritz
+title: Vichyssoise a la Ritz
 anecdote: Bar none, this is the best vichyssoise we have ever had at home or in a restaurant. It is from an old Craig Claiborne book, and we have never found any other recipe to equal it. Since Claiborne is gone, we wanted you to have a copy of this great, cold soup classic.
 imageurl: http://www.oliviascuisine.com/wp-content/uploads/2015/06/vichyssoise-foodgawker.jpg
 ---
