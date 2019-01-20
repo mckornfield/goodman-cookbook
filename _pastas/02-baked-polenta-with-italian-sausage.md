@@ -4,6 +4,7 @@ title: Baked Polenta with Italian Sausage
 first_title: Firm Polenta
 second_title: Italian Sausage Sauce
 serving_info: Serves 4 to 6
+anecdote: We were going through your grandmother Emmy’s recipes and came across this one that I remembered her making when I was a teenager. What intrigued us was that the polenta was made in the microwave with very little difficulty and no need to stir constantly. To our amazement the polenta cooked up easily and quickly. Using the best ingredients is always important, but above all use the best sausage here. This dish is delicious. The finer the corn meal the faster the polenta comes to the right consistency: i.e. using Quaker Oats only takes about 12 minutes, coarser grinds will take 18 or more minutes.
 imageurl_one: https://images.media-allrecipes.com/userphotos/560x315/3778721.jpg 
 imageurl_two: https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/recipes/ck/11/05/polenta-sausage-ck-x.jpg?itok=I4oSGILI
 ---
