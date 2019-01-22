@@ -17,3 +17,5 @@ collections:
     output: true
   pastas:
     output: true
+  breads:
+    output: true

@@ -58,6 +58,12 @@
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
+      <h3 id="section-title">Breads, Muffins and Sandwiches</h3>
+      <ul id="toc">
+        {% for recipe in site.breads %}
+        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+        {% endfor %}
+      </ul>
     </section> <!-- /table-of-contents -->
     </div>
   </div> <!-- /wrapper -->
