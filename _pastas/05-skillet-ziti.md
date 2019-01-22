@@ -2,7 +2,6 @@
 layout: recipe
 title: Skillet Ziti, Chicken, Broccoli and Asiago Cheese
 serving_info: Serves 4 to 6
-anecdote: Whenever we make this for company we get excellent comments. This is a quick recipe to prepare. The pitting of the olives is the most time consuming part.
 imageurl: https://www.centercutcook.com/wp-content/uploads/2014/02/skillet-baked-ziti-7.jpg
 ---
 <!-- Ingredients -->
