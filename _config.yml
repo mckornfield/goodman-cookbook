@@ -19,3 +19,5 @@ collections:
     output: true
   breads:
     output: true
+  mexican:
+    output: true
