@@ -38,14 +38,14 @@
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
-    </section>
-    <section>
       <h3 id="section-title">Poultry</h3>
       <ul id="toc">
         {% for recipe in site.poultry %}
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>
+    </section>
+    <section>
       <h3 id="section-title">Fish and Seafood</h3>
       <ul id="toc">
         {% for recipe in site.fish_and_seafood %}
@@ -73,6 +73,12 @@
       <h3 id="section-title">Casseroles, Stews and Chilis</h3>
       <ul id="toc">
         {% for recipe in site.casseroles %}
+        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+        {% endfor %}
+      </ul>
+      <h3 id="section-title">Cookies and Desserts</h3>
+      <ul id="toc">
+        {% for recipe in site.desserts %}
         <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
         {% endfor %}
       </ul>

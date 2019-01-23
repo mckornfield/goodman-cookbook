@@ -23,3 +23,5 @@ collections:
     output: true
   casseroles:
     output: true
+  desserts:
+    output: true
