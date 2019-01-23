@@ -21,3 +21,5 @@ collections:
     output: true
   mexican:
     output: true
+  casseroles:
+    output: true
