@@ -1,8 +1,8 @@
 ---
 layout: double-recipe
 title: Skillet Tamale Pie
-imageurl_one: https://sonomacountykids.com/wp-content/uploads/2017/12/tamale-pie.jpg
-imageurl_two: https://lh6.googleusercontent.com/-fnQhX_udOvA/UBm11enm89I/AAAAAAAAHlk/FCmSNQ8hWuE/s640/Vegetable+Tamale+Pie+close.jpg
+imageurl_one: ../assets/real_pics/tamale_filling.jpg
+imageurl_two: ../assets/real_pics/tamale_crust.jpg
 first_title: Filling
 second_title: Cornbread Topping
 anecdote: Ground turkey works very well in this recipe.
