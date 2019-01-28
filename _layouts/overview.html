@@ -8,7 +8,7 @@
     <h1 id="title">{{page.title}}</h1>
     <div id="note-on-ingredients">
       <input id="search-bar" type="search" placeholder="Search..." class="search">
-      <button><i id="search-button" class="fa fa-search"></i></button>
+      <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
       {% for info in site.about %}
       <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>{% endfor %}
     </div>
