@@ -1,6 +1,10 @@
 <head>
   <title>{{page.title}}</title>
-  <meta property="og:image" content="https://noblepig.com/site/wp-content/uploads/old/P1290704x.jpg" />
+  {% if page.imageurl %}
+    <meta property="og:image" content="{{page.imageurl}}" />
+  {% else %}
+    <meta property="og:image" content="https://noblepig.com/site/wp-content/uploads/old/P1290704x.jpg" />
+  {% endif %}
   <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/assets/css/style.css" type="text/css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="apple-touch-icon" sizes="57x57" href="{{site.url}}{{site.baseurl}}/assets/pics/apple-icon-57x57.png">
