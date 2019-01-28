@@ -2,7 +2,7 @@
 layout: multi-recipe
 title: Steamed Bass with Potato Puree and Asparagus
 serving_info: Serves 4
-image_url: https://i2.wp.com/salu-salo.com/wp-content/uploads/2016/10/Steamed-Sea-Bass-3.jpg?resize=500%2C375&ssl=1
+imageurl: https://i2.wp.com/salu-salo.com/wp-content/uploads/2016/10/Steamed-Sea-Bass-3.jpg?resize=500%2C375&ssl=1
 ---
 Potatoes
 <!-- split -->

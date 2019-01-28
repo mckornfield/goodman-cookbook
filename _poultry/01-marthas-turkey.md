@@ -2,6 +2,7 @@
 layout: double-recipe
 title: Martha's Turkey
 anecdote: We have used this recipe for many years and it always produces a delicious, moist turkey. This method works well because it takes longer for the dark meat to properly cook than does the breast meat. This means that when the dark meat is done, the breast is over done and dry. Covering the breast with a moist cheesecloth and basting regularly slows the cooking time of the breast allowing more tune for the dark meat to cook to its proper temperature without drying out the white meat. 
+imageurl: https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2014/11/13/MarthasCSSC406_Turkey_lead2_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
 imageurl_one: https://img-aws.ehowcdn.com/640/cme/photography.prod.demandstudios.com/4a96fecc-963c-421c-a532-ee09b941e650.jpg
 imageurl_two: https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2014/11/13/MarthasCSSC406_Turkey_lead2_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d
 first_title: Basting Liquid

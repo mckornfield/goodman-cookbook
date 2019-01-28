@@ -5,6 +5,7 @@ serving_info: 4 to 100 servings
 anecdote: Mmmh good!
 first_title: Lutefisk
 second_title: Bechamel Sauce
+imageurl: http://folklore.usc.edu/wp-content/uploads/2013/04/plate-of-lutefisk1.jpg
 imageurl_one: http://folklore.usc.edu/wp-content/uploads/2013/04/plate-of-lutefisk1.jpg
 imageurl_two: https://myfoodbook.com.au/sites/default/files/styles/single_recipe/public/recipe_photo/Devo20169688_0.jpg
 ---

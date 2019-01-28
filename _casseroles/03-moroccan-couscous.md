@@ -3,6 +3,7 @@ layout: multi-recipe
 title: Moroccan Couscous
 anecdote: We like this dish so much we are on our second couscousery. Unfortunately you cannot buy prepared lamb stock, so use the recipe below to make your own; it’s easy. You cannot substitute beef stock as it will take away from the lamb flavor. The stock can be made either the day before or the morning of. The Sauce Piquant really adds a special dimension to this dish, but be careful, it is very hot. Pans needed, Couscousery or large lidded stockpot upon which you can place a colander. 
 serving_info: 8 to 10 servings
+imageurl: https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18144103/fc37mc053-01-main.jpg
 ---
 Lamb Stock
 <!-- split -->

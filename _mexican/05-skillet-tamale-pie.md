@@ -1,6 +1,7 @@
 ---
 layout: double-recipe
 title: Skillet Tamale Pie
+imageurl: ../assets/real_pics/tamale_crust.jpg
 imageurl_one: ../assets/real_pics/tamale_filling.jpg
 imageurl_two: ../assets/real_pics/tamale_crust.jpg
 first_title: Filling
