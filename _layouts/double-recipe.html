@@ -17,9 +17,7 @@
           {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
-          {% if page.image %}
-            <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
-          {% else if page.imageurl_one %}
+          {% if page.imageurl_one %}
           <img src="{{page.imageurl_one}}" alt="Recipe"/>
           {% endif %}
         </div> <!-- /picture -->
@@ -36,9 +34,7 @@
           {{ content | split:"<!-- recipe split -->" | last | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
-          {% if page.image %}
-            <img src="{{site.url}}{{site.baseurl}}/assets/images/{{page.image}}" alt="Recipe"/>
-          {% else if page.imageurl_one %}
+          {% if page.imageurl_one %}
           <img src="{{page.imageurl_two}}" alt="Recipe"/>
           {% endif %}
         </div> <!-- /picture -->
@@ -48,11 +44,7 @@
                 {{ content | split:"<!-- recipe split -->" | last | split:"<!-- split -->" | last }}
         </div> <!-- /steps -->
 
-     <div id="back">
-       <a href="{{site.url}}{{site.baseurl}}/">
-           Back to table of contents
-       </a>
-     </div> <!-- /back -->
+      {% include footer.html %}
     </div> <!-- /wrapper -->
   </body>
 </html>

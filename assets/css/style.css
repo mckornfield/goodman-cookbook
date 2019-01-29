@@ -256,6 +256,15 @@ section {
   cursor: pointer;
 }
 
+#email-icon {
+  margin-right: 40px;
+  height:40px;
+}
+
+#return {
+  height:40px;
+  width:40px;
+}
 a {
   color: #0066cc;
   font-family: "Titilium Web";
