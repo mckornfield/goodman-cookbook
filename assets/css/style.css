@@ -1,5 +1,5 @@
 body {
-  font-family: "Titilium Web";
+  font-family: "Montserrat";
   padding: 20px;
   background: #f1f1f1;
 }
@@ -19,7 +19,6 @@ body {
 }
 
 h3, h2, h5, h4 {
-  font-family: "Titilium Web";
   padding: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -31,11 +30,16 @@ p {
 }
 
 a:hover {
+  color: #F3A404;
+  border-bottom: 1px solid;
+}
+
+a:focus {
   color: #b20436;
+  border-bottom: 1px solid;
 }
 
 #section-title {
-  font-family: "Titilium Web";
 }
 
 #table-of-contents {
@@ -45,27 +49,23 @@ a:hover {
 #title {
   padding: 5px;
   text-align: center;
-  font-family: "Titilium Web";
   clear: both;
 }
 
 #anecdote {
   padding: 5px;
   text-align: center;
-  font-family: "Titilium Web";
   clear: both;
 }
 
 #serving_info {
   padding: 5px;
   text-align: center;
-  font-family: "Titilium Web";
 }
 
 #lefttitle {
   text-align: left;
   padding-left: 40px;
-  font-family: "Titilium Web";
 }
 
 #prev, #next, #prev a, #next a, #back, #back a {
@@ -99,7 +99,6 @@ a:hover {
 
 #ingredients {
   float: left;
-  font-family: sans-serif;
   width: 60%;
   margin-top: 5px;
 }
@@ -128,10 +127,12 @@ a:hover {
 
 #ingredients td:nth-child(odd) {
   width: 40%;
+  text-align: left;
 }
 
 #ingredients td:nth-child(even) {
   width: 60%;
+  text-align: left;
 }
 
 #picture {
@@ -155,12 +156,10 @@ a:hover {
 #steps {
   padding-top: 10px;
   clear: both;
-  font-family: "Titilium Web", sans-serif;
   line-height: 1;
 }
 
 #comment {
-  font-family: "Titilium Web", sans-serif;
   font-weight: 300;
 }
 
@@ -257,22 +256,27 @@ section {
 }
 
 #email-icon {
-  margin-right: 40px;
   height:40px;
+}
+#email-icon-wrapper {
+  margin-right: 40px;
 }
 
 #return {
   height:40px;
   width:40px;
 }
+#email--links:hover, #button-links:active {
+  background-color: #E77502;
+}
 a {
   color: #0066cc;
-  font-family: "Titilium Web";
+  outline: none;
   text-decoration: none;
 }
 
 #button-links:hover, #button-links:active {
-  background-color: black;
+  background-color: #E77502;
 }
 li {
   margin: 6px 0;
