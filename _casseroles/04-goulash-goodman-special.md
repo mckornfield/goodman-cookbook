@@ -3,7 +3,7 @@ layout: recipe
 title: Goulash/Goodman Special
 anecdote: Other than tacos, this is the most memorable of your mother’s creations. No other dish was served as often and it remains an all-time favorite. This original is Italian. If you want Mexican, use cumin, coriander and chili instead of the Italian spices. Or try Asian versions.
 serving_info: 4 servings
-imageurl: https://dinnersdishesanddesserts.com/wp-content/uploads/2018/02/Goulash-3-square-500x500.jpg
+imageurl: ../assets/real_pics/goodmangoulash.jpg
 ---
 <!-- Ingredients -->
 
