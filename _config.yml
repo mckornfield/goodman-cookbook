@@ -1,4 +1,5 @@
 name: Goodman Family Cookbook
+url: "https://gfamcookbook.com"
 markdown: kramdown
 collections:
   about:

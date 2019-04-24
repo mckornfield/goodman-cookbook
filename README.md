@@ -1,7 +1,7 @@
 # goodman-cookbook
 Goodman Family Cookbook
 
-Visit the site [here](https://mckornfield.github.io/goodman-cookbook/)
+Visit the site [here](https://gfamcookbook.com)
 
 To run the build locally, make sure you install [jekyll and ruby](https://jekyllrb.com/)
 
