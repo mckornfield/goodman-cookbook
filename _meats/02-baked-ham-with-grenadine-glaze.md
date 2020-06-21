@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Baked Ham with Grenadine Glaze 
-imageurl: http://kriscoliquor.com/wp-content/uploads/2013/03/ham.jpg
+imageurl: ../assets/downloaded_pics/02-baked-ham-with-grenadine-glaze_photo.jpg
 ---
 <!-- Ingredients -->
 

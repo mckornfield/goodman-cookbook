@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Swedish Meatballs
-imageurl: https://www.foodnetwork.com/content/dam/images/food/video/0/01/015/0156/0156087.jpg
+imageurl: ../assets/downloaded_pics/04-swedish-meatballs_photo.jpg
 ---
 <!-- Ingredients -->
 

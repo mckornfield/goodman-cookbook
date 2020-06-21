@@ -2,7 +2,7 @@
 layout: recipe
 title: Zuchini with Ground Lamb
 serving_info: 4 servings
-imageurl: https://i1.wp.com/thenourishedepicurean.com/wp-content/uploads/2015/10/1-Lamb-zucchini-ragout.102015.jpg?ssl=1
+imageurl: ../assets/downloaded_pics/06-zucchini-with-ground-lamb_photo.jpg
 ---
 <!-- Ingredients -->
 

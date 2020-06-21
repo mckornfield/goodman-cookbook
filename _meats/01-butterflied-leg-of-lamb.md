@@ -3,7 +3,7 @@ layout: recipe
 title: Butterflied Leg of Lamb
 anecdote: We enjoy this way of serving lamb, and it is also a hit with company. It saves a lot of time if you ask your butcher to butterfly the leg for you. This is great either in the broiler or on the BBQ.
 serving_info: 8 to 10 servings
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/webertimetogrill/butterflied-leg-of-lamb-pesto-aioli-oh-x.jpg?itok=-HpSWqLw
+imageurl: ../assets/downloaded_pics/01-butterflied-leg-of-lamb_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -2,7 +2,7 @@
 layout: recipe
 title: Sloppy Joe Sandwiches / Stroganoff Burgers
 serving_info: 8 to 10 servings
-imageurl: https://tastesbetterfromscratch.com/wp-content/uploads/2013/04/Sloppy-Joes-5-500x500.jpg
+imageurl: ../assets/downloaded_pics/05-sloppy-joe-sandwiches-stroganoff-burgers_photo.jpg
 ---
 <!-- Ingredients -->
 

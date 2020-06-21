@@ -2,7 +2,7 @@
 layout: recipe
 title: Standing Rib Roast, Slow Roasted
 anecdote: We got this method from Drew. Every time we have used it, it has produced a roast that is perfectly cooked to medium rare, has retained all of its juices and looks great. You can cook other roasts using this method as well. You must use a cooking thermometer to make sure the roast is at the proper finished temperature, 140°. I guess all those cooking lessons for Drew were not wasted.
-imageurl: https://static01.nyt.com/images/2014/11/19/dining/19NEBRASKA/19NEBRASKA-articleLarge.jpg
+imageurl: ../assets/downloaded_pics/10-rib-roast-slow-roasted_photo.jpg
 ---
 <!-- Ingredients -->
 

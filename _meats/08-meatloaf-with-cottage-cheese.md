@@ -2,7 +2,7 @@
 layout: recipe
 title: Meatloaf with Cottage Cheese
 serving_info: 8 servings
-imageurl: https://vintagerecipecards.files.wordpress.com/2011/02/untitled-11252421146.jpg?w=600
+imageurl: ../assets/downloaded_pics/08-meatloaf-with-cottage-cheese_photo.jpg
 ---
 <!-- Ingredients -->
 

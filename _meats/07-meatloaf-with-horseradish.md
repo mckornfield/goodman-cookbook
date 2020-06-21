@@ -2,7 +2,7 @@
 layout: recipe
 title: Meatloaf with Horseradish
 serving_info: 8 servings
-imageurl: http://pinchmysalt.com/wp-content/uploads/2007/10/img_5782-version-2.jpg
+imageurl: ../assets/downloaded_pics/07-meatloaf-with-horseradish_photo.jpg
 ---
 <!-- Ingredients -->
 
