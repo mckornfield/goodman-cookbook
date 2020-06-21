@@ -3,7 +3,7 @@ layout: recipe
 title: Ratatouille
 serving_info: 10 to 12 servings
 anecdote: This recipe seems to be a lot of work, but it really is not and the results are outstanding. A great accompaniment for any meal. 
-imageurl: https://hips.hearstapps.com/del.h-cdn.co/assets/17/30/2048x1365/gallery-1501008062-shot-2-099.jpg?resize=480:*
+imageurl: ../assets/downloaded_pics/07-ratatouille_photo.jpg
 ---
 <!-- Ingredients -->
 

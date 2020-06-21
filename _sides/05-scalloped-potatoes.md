@@ -2,7 +2,7 @@
 layout: recipe
 title: Scalloped Potatoes
 serving_info: 8 to 10 servings
-imageurl: https://www.garlicandzest.com/wp-content/uploads/2014/12/scalloped-potatoes-6.jpg
+imageurl: ../assets/downloaded_pics/05-scalloped-potatoes_photo.jpg
 ---
 <!-- Ingredients -->
 

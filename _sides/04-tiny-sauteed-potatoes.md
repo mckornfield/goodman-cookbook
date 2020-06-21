@@ -2,7 +2,7 @@
 layout: recipe
 title: Tiny Sauteed Potatoes
 anecdote: For this recipe you need small red or white potatoes no bigger than 1/2" in diameter. Most supermarkets do not carry them, but you can find them at farmer’s markets in the fall when potatoes are harvested.
-imageurl: https://www.bbcgoodfood.com/sites/default/files/styles/carousel_medium/public/recipe_images/recipe-image-legacy-id--3962_12.jpg?itok=5afQDDUi 
+imageurl: ../assets/downloaded_pics/04-tiny-sauteed-potatoes_photo.jpg
 ---
 <!-- Ingredients -->
 

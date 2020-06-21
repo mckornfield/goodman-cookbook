@@ -3,7 +3,7 @@ layout: recipe
 title: Chantilly Potatoes
 anecdote: This is Drew’s recipe and has become one of Kathy’s favorites for her dinner parties.
 serving_info: 4 to 6 servings
-imageurl: https://cdn-image.foodandwine.com/sites/default/files/200811-r-chantilly-potatoes.jpg 
+imageurl: ../assets/downloaded_pics/02-chantilly-potatoes_photo.jpg
 ---
 <!-- Ingredients -->
 

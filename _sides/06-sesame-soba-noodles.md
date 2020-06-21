@@ -2,7 +2,7 @@
 layout: recipe
 title: Sesame Soba Noodles
 serving_info: 6 to 8 servings
-imageurl: https://www.foodiecrush.com/wp-content/uploads/2018/12/Sesame-Soba-Noodles-foodiecrush.com-023-500x500.jpg
+imageurl: ../assets/downloaded_pics/06-sesame-soba-noodles_photo.jpg
 ---
 <!-- Ingredients -->
 

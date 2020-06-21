@@ -3,7 +3,7 @@ layout: recipe
 title: Mom's Turkey Stuffing
 anecdote: Ain't none better. 
 serving_info: 6 servings
-imageurl: https://cdn.cpnscdn.com/static.coupons.com/ext/kitchme/images/recipes/600x400/thanksgiving-stuffing-stove-top_19791.jpg
+imageurl: ../assets/downloaded_pics/01-moms-stuffing_photo.jpg
 ---
 <!-- Ingredients -->
 

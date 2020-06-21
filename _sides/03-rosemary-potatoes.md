@@ -3,7 +3,7 @@ layout: recipe
 title: Rosemary Potatoes
 anecdote: These potatoes go great with lamb
 serving_info: 4 to 6 servings
-imageurl: https://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2011/3/30/0/River-Cottage_Roast-Potatoes-With-Lemon_s4x3.jpg.rend.hgtvcom.616.462.suffix/1358484467463.jpeg
+imageurl: ../assets/downloaded_pics/03-rosemary-potatoes_photo.jpg
 ---
 <!-- Ingredients -->
 

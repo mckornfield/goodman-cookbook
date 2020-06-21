@@ -3,7 +3,7 @@ layout: recipe
 title: Green Jell-O Salad
 serving_info: 10 to 12 servings
 anecdote: Thanksgiving and Christmas would not be the same without this salad on the table. (Also it looks very interesting.) 
-imageurl: https://lh3.googleusercontent.com/re26PDA6ZUUGFNomiwza84MYYHnYaRdzR07dSWALU7KYS-o9ngSiQerkn2uFrkQFapPqMoD-iteL5Z9vazXquzerdntY_CC3l4t0=w600-l68
+imageurl: ../assets/downloaded_pics/08-green-jello-salad_photo.jpg
 ---
 <!-- Ingredients -->
 
