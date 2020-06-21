@@ -3,7 +3,7 @@ layout: recipe
 title: Grilled Rare Tuna
 serving_info: 3 to 4 servings
 anecdote: If you like tuna that is grilled crisp on the outside and rare inside, this is an excellent and easy way to do it. This can also be done on the BBQ but it must be very hot or the tuna will not cook properly. 
-imageurl: http://www.muminawe.com/wp-content/uploads/2010/09/grilled-tuna.jpg
+imageurl: ../assets/downloaded_pics/02-grilled-rare-tuna_photo.jpg
 ---
 <!-- Ingredients -->
 

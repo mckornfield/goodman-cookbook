@@ -2,7 +2,7 @@
 layout: recipe
 title: Pan Seared Fish
 anecdote: This fish cooking method is excellent for all kinds of firm fleshed fish. The cooking time will vary slightly depending upon type of fish and its thickness. For Chilean sea bass double cooking time. You will need to have your stove hood on during the initial grilling of the fish.
-imageurl: http://static1.squarespace.com/static/56eb6c3f1bbee01a3c384d2f/571862b1fe5f7461e4abe230/57186af7fe5f7461e4ac38d4/1461218039529/7568355692_b185b4c7c8_z.jpg?format=original
+imageurl: ../assets/downloaded_pics/01-pan-seared-fish_photo.jpg
 ---
 <!-- Ingredients -->
 

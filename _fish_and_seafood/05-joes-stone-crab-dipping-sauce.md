@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Joe's Stone Crab Famous Dipping Sauce
-imageurl: http://diningoutwp.funjuczse.maxcdn-edge.com/miami/wp-content/uploads/sites/17/2017/08/Joes-Stone-Crab.jpg
+imageurl: ../assets/downloaded_pics/05-joes-stone-crab-dipping-sauce_photo.jpg
 ---
 <!-- Ingredients -->
 
