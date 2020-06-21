@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Crostini di Peperone Giallo (Yellow Pepper Crostini)
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/cl/04/01/crostini-cl-577312-x.jpg?itok=qPG0Q9yc
+imageurl: ../assets/downloaded_pics/11-pepper-crostini_photo.jpg
 ---
 <!-- Ingredients -->
 

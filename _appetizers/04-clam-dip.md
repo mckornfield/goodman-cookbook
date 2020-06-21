@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Clam Dip
-imageurl: http://tsgcookin.com/wp-content/uploads/2013/02/Clam+Dip+138-square-2.jpg
+imageurl: ../assets/downloaded_pics/04-clam-dip_photo.jpg
 ---
 <!-- Ingredients -->
 

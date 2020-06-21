@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Crostini di Spinaci (Spinach Crostini)
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/8/16/2/entwine_spinach-almond-crostini_s4x3.jpg.rend.hgtvcom.406.305.suffix/1382540660704.jpeg
+imageurl: ../assets/downloaded_pics/10-spinach-crostini_photo.jpg
 ---
 <!-- Ingredients -->
 

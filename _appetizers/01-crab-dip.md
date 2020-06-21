@@ -2,7 +2,7 @@
 layout: recipe
 title: Crab Dip
 persons: 4
-imageurl: https://noblepig.com/site/wp-content/uploads/old/P1290704x.jpg
+imageurl: ../assets/downloaded_pics/01-crab-dip_photo.jpg
 ---
 <!-- Ingredients -->
 

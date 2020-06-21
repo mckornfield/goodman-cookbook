@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Cheese Straws
-imageurl: https://www.saveur.com/sites/saveur.com/files/styles/655_1x_/public/import/2008/images/2008-11/626-32_cheese_straws_300.jpg?itok=_i4WhrJJ
+imageurl: ../assets/downloaded_pics/05-cheese-straws_photo.jpg
 ---
 <!-- Ingredients -->
 

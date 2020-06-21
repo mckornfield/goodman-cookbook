@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Crostini di Pomodori (Tomato Crostini)
-imageurl: http://i479.photobucket.com/albums/rr158/oneperfectbite/Blog%20Photos%20August%202012/TomatoCrostiniFive-2-1.jpg
+imageurl: ../assets/downloaded_pics/09-tomato-crostini_photo.jpg
 ---
 <!-- Ingredients -->
 

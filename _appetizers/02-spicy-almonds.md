@@ -2,7 +2,7 @@
 layout: recipe
 title: Spicy Almonds
 serving_info: Makes 2 cups
-imageurl: http://farm5.static.flickr.com/4102/4818368342_26ed37bcbf.jpg
+imageurl: ../assets/downloaded_pics/02-spicy-almonds_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Gougeres Cheese Puffs
-imageurl: http://old.lostrecipesfound.com/wp-content/uploads/2012/04/Gougeres-Cheese-Puffs-450.jpg
+imageurl: ../assets/downloaded_pics/06-gougeres-cheese-puffs_photo.jpg
 ---
 <!-- Ingredients -->
 

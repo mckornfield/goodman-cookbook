@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Guacamole
-imageurl: https://www.mylatinatable.com/wp-content/uploads/2018/05/guacamole-foto-heroe-1024x723-500x500.jpg
+imageurl: ../assets/downloaded_pics/03-guacamole_photo.jpg
 ---
 <!-- Ingredients -->
 
