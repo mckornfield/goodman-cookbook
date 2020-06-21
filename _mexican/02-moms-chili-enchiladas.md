@@ -2,7 +2,7 @@
 layout: recipe
 title: Mom's Chili Enchiladas
 serving_info: Makes 10 enchiladas
-imageurl: https://www.cookthestory.com/wp-content/uploads/2015/02/Chili-Enchiladas-13-square-600.jpg
+imageurl: ../assets/downloaded_pics/02-moms-chili-enchiladas_photo.jpg
 ---
 <!-- Ingredients -->
 

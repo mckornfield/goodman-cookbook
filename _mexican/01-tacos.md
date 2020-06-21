@@ -2,7 +2,7 @@
 layout: recipe
 title: Beef Tacos
 anecdote: This is such a family favorite that it is probably unnecessary to include the recipe. But it always brings back memories of many happy meals of the whole family around the table.
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/8/22/0/WU0813_Tacos_s4x3.jpg.rend.hgtvcom.616.462.suffix/1412801978429.jpeg
+imageurl: ../assets/downloaded_pics/01-tacos_photo.jpg
 ---
 <!-- Ingredients -->
 

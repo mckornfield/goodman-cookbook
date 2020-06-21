@@ -2,7 +2,7 @@
 layout: recipe
 title: El Cholo's Cheese Enchiladas
 serving_info: Makes 12 enchiladas
-imageurl: http://www.thecurvycarrot.com/wp-content/uploads/2011/04/IMG_4169-682x1024(pp_w409_h614).jpg
+imageurl: ../assets/downloaded_pics/03-el-cholos-cheese-enchiladas_photo.jpg
 ---
 <!-- Ingredients -->
 

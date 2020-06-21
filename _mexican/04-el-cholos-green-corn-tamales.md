@@ -2,7 +2,7 @@
 layout: recipe
 title: El Cholo's Green Corn Tamales
 serving_info: Makes 12 tamales
-imageurl: http://cafebarber.com/wp-content/uploads/2010/12/green-corn.jpg
+imageurl: ../assets/downloaded_pics/04-el-cholos-green-corn-tamales_photo.jpg
 ---
 <!-- Ingredients -->
 
