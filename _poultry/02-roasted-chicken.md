@@ -2,7 +2,7 @@
 layout: recipe
 title: Roasted Chicken
 serving_info: 4 to 6 servings
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/23/0/FN_perfect-chicken-014_s4x3.jpg.rend.hgtvcom.616.462.suffix/1384540895467.jpeg
+imageurl: ../assets/downloaded_pics/02-roasted-chicken_photo.jpg
 ---
 <!-- Ingredients -->
 

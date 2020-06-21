@@ -3,7 +3,7 @@ layout: recipe
 title: BBQ Chicken
 anecdote: This recipe works well on a BBQ or in the oven.
 serving_info: 4 servings
-imageurl: https://www.seriouseats.com/recipes/images/20090520-barbecue-chicken.jpg
+imageurl: ../assets/downloaded_pics/04-bbq-chicken_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -2,7 +2,7 @@
 layout: recipe
 title: Chicken or Turkey Tetrazzini
 serving_info: 6 to 8 servings
-imageurl: http://assets.kraftfoods.com/recipe_images/opendeploy/136910_640x428.jpg
+imageurl: ../assets/downloaded_pics/05-chicken-or-turkey-tetrazzini_photo.jpg
 ---
 <!-- Ingredients -->
 

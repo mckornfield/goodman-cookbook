@@ -2,7 +2,7 @@
 layout: recipe
 title: Turkey Meatloaf
 serving_info: 8 servings
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/27/0/GH0144_Turkey-Meatloaf-With-Feta-and-Sun-Dried-Tomatoes_s4x3.jpg.rend.hgtvcom.616.462.suffix/1485535636637.jpeg
+imageurl: ../assets/downloaded_pics/06-turkey-meatloaf_photo.jpg
 
 ---
 <!-- Ingredients -->

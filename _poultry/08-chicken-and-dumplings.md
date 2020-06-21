@@ -4,8 +4,8 @@ serving_info: 6 to 8 servings
 title: Chicken and Dumplings
 first_title: Recipe sans Dumplings
 second_title: Dumplings
-imageurl_one: https://eatathomecooks.com/wp-content/uploads/2012/11/chicken-and-dumplings-done.jpg
-imageurl_two: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7L8Leh4fZBL3cMTmdVc5pKkDdEwkl0dhtT3U6-mipmEe9xuSb
+imageurl_one: ../assets/downloaded_pics/08-chicken-and-dumplings_photo_one.jpg
+imageurl_two: ../assets/downloaded_pics/08-chicken-and-dumplings_photo_two.jpg
 ---
 <!-- Ingredients -->
 
