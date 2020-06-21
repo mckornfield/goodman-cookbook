@@ -3,7 +3,7 @@ layout: recipe
 title: Pasta Puttanesca
 serving_info: 4 to 5 servings
 anecdote: Whenever we make this for company we get excellent comments. This is a quick recipe to prepare. The pitting of the olives is the most time consuming part.
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ck/11/05/pasta-puttanesca-ck-x.jpg?itok=wgcMa21A
+imageurl: ../assets/downloaded_pics/04-pasta-puttanesca_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -3,7 +3,7 @@ layout: recipe
 title: Penne alla Vodka
 serving_info: 4 servings
 anecdote: Drop pasta into boiling, salted water just after adding the vodka to the sauce. Use a premium vodka; inexpensive brands will taste harsh.
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/4/12/1/FNK_One-Pot-Penne-Alla-Vodka_s4x3.jpg.rend.hgtvcom.406.305.suffix/1460503593078.jpeg
+imageurl: ../assets/downloaded_pics/03-penne-alla-vodka_photo.jpg
 ---
 <!-- Ingredients -->
 

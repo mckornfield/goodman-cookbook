@@ -2,7 +2,7 @@
 layout: recipe
 title: Skillet Ziti, Chicken, Broccoli and Asiago Cheese
 serving_info: Serves 4 to 6
-imageurl: https://www.centercutcook.com/wp-content/uploads/2014/02/skillet-baked-ziti-7.jpg
+imageurl: ../assets/downloaded_pics/05-skillet-ziti_photo.jpg
 ---
 <!-- Ingredients -->
 

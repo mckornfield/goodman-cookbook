@@ -4,9 +4,8 @@ title: Lasagna
 first_title: Lasagna sans Tomato Sauce
 second_title: Tomato Sauce
 serving_info: 6 to 8 servings
-imageurl: https://www.thewholesomedish.com/wp-content/uploads/2018/07/Best-Lasagna-550.jpg
-imageurl_one: https://www.thewholesomedish.com/wp-content/uploads/2018/07/Best-Lasagna-550.jpg
-imageurl_two: https://www.simplyhappyfoodie.com/wp-content/uploads/2018/08/instant-pot-marinara-fresh-tomato-sauce-1-500x500.jpg
+imageurl_one: ../assets/downloaded_pics/01-lasgna_photo.jpg
+imageurl_two: ../assets/downloaded_pics/01-lasgna_photo_2.jpg
 ---
 <!-- Ingredients -->
 
