@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: California Salad
-imageurl: https://media1.thescramble.com/wp-content/uploads/2011/01/California-Taco-Salad.jpg
+imageurl: ../assets/downloaded_pics/09-california-salad_photo.jpg
 ---
 <!-- Ingredients -->
 

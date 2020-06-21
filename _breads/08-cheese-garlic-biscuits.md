@@ -2,7 +2,7 @@
 layout: recipe
 title: Cheese Garlic Biscuits aka Red Lobster Biscuits
 anecdote: Love these biscuits
-imageurl: https://www.gimmesomeoven.com/wp-content/uploads/2010/01/cheddar-garlic-biscuits2.jpg
+imageurl: ../assets/downloaded_pics/08-cheese-garlic-biscuits_photo.jpg
 ---
 <!-- Ingredients -->
 

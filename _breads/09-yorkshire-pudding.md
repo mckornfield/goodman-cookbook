@@ -2,7 +2,7 @@
 layout: recipe
 title: Yorkshire Pudding
 anecdote: This is the perfect accompaniment to Prime Rib. Prepare the batter after the beef has roasted for 1 hour, then, while the roast rests, add beef fat to the batter and get the puddings into the oven, An accurate oven temperature is key for properly risen puddings, so check your oven with an oven thermometer before making this recipe. Work quickly to fill the muffin tin with batter, and do not open the oven door during baking. 
-imageurl: https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/user-collections/my-colelction-image/2015/12/recipe-image-legacy-id--901451_9.jpg?itok=rgsV1wzi
+imageurl: ../assets/downloaded_pics/09-yorkshire-pudding_photo.jpg
 ---
 <!-- Ingredients -->
 

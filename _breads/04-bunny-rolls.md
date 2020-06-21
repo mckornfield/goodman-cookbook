@@ -3,7 +3,7 @@ layout: recipe
 title: Bunny Rolls
 anecdote: No Easter breakfast is complete without these bunnies. You probably all remember your mother getting up very early on Easter to make these bunnies. 
 serving_info: Makes 30 bunnies
-imageurl: https://www.goodtaste.tv/wp-content/uploads/2016/09/easter-bunny-rolls-recipe_large.jpg
+imageurl: ../assets/downloaded_pics/04-bunny-rolls_photo.jpg
 ---
 <!-- Ingredients -->
 

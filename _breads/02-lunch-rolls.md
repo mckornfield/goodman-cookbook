@@ -3,7 +3,7 @@ layout: recipe
 title: Lunch Rolls
 anecdote: Surely you remember these rolls. Your mother used to make your sandwiches with them.
 serving_info: Makes 10 rolls
-imageurl: https://reallifedinner.com/wp-content/uploads/2014/01/Lunch-Lady-Cafeteria-Rolls-Recipe.jpg
+imageurl: ../assets/downloaded_pics/02-lunch-rolls_photo.jpg
 ---
 <!-- Ingredients -->
 

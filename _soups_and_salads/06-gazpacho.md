@@ -3,7 +3,7 @@ layout: recipe
 title: Gazpacho
 anecdote: Over the years we have tried a lot of different Gazpacho recipes because it is a great cold soup for summer and the perfect accompaniment to Paella. This recipe has become our favorite. It is important to use very good sherry vinegar and tomato juice.
 serving_info: 6 to 8 servings
-imageurl: https://www.gimmesomeoven.com/wp-content/uploads/2018/07/Authentic-Andaluz-Spanish-Gazpacho-Recipe-6-2-360x360.jpg
+imageurl: ../assets/downloaded_pics/06-gazpacho_photo.jpg
 ---
 <!-- Ingredients -->
 

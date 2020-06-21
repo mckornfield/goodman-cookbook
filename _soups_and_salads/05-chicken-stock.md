@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Chicken Stock
-imageurl: https://www.asweetpeachef.com/wp-content/uploads/2010/12/making-chicken-stock.png
+imageurl: ../assets/downloaded_pics/05-chicken-stock.png
 ---
 <!-- Ingredients -->
 

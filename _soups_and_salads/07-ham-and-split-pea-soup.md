@@ -2,7 +2,7 @@
 layout: recipe
 title: Ham and Split Pea Soup
 anecdote: Use a small 2 1/2-pound smoked picnic portion ham if you can find one. Otherwise, buy half a bone-in smoked ham and remove enough meat, which can be frozen and used later for other meals or sandwiches, to leave about 2 1/2-pounds of ham and bone. The finished soup will continue to thicken as it stands but can be thinned with some water when reheated
-imageurl: https://steamykitchen.com/wp-content/uploads/2012/04/pressure-cooker-split-pea-ham-soup-recipe-5649.jpg
+imageurl: ../assets/downloaded_pics/07-ham-and-split-pea-soup_photo.jpg
 ---
 <!-- Ingredients -->
 

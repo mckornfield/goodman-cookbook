@@ -2,7 +2,7 @@
 layout: recipe
 title: New Orleans Muffaletta
 anecdote: New Orleans Style Sandwich
-imageurl: https://www.seriouseats.com/recipes/images/2013/02/20120208-muffuletta-1.jpg 
+imageurl: ../assets/downloaded_pics/10-new-orleans-muffaletta_photo.jpg 
 ---
 <!-- Ingredients -->
 

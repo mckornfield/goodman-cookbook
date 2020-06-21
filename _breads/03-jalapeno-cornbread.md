@@ -3,7 +3,7 @@ layout: recipe
 title: Jalapeño Cornbread
 anecdote: Surely you remember these rolls. Your mother used to make your sandwiches with them.
 serving_info: Makes 1 dozen 'muffins'
-imageurl: http://eviltwin.kitchen/wp-content/uploads/2016/09/Jalapeno-Cheddar-Cornbread-15.jpg
+imageurl: ../assets/downloaded_pics/03-jalapeno-cornbread_photo.jpg
 ---
 <!-- Ingredients -->
 

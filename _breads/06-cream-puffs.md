@@ -2,7 +2,7 @@
 layout: recipe
 title: Cream Puffs
 serving_info: 8 large or 36 to 48 small puffs
-imageurl: https://www.aprettylifeinthesuburbs.com/wp-content/uploads/2012/06/CreamPuffs3.jpg 
+imageurl: ../assets/downloaded_pics/06-cream-puffs_photo.jpg 
 ---
 <!-- Ingredients -->
 

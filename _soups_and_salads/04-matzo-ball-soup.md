@@ -3,7 +3,7 @@ layout: recipe
 title: Matzo Ball Soup
 anecdote: This is one of our all-time favorites. It is one of the dishes, like the potato salad, that your mom makes to perfection. It is always made after Thanksgiving when we have the leftover turkey carcass or after we have accumulated, in our freezer, the backs, necks and wing tips of about 8 chickens.
 serving_info: 8 to 10 servings
-imageurl: https://www.budgetbytes.com/wp-content/uploads/2015/10/Matzo-Ball-Soup-close-1-380x380.jpg
+imageurl: ../assets/downloaded_pics/04-matzo-ball-soup_photo.jpg
 ---
 <!-- Ingredients -->
 

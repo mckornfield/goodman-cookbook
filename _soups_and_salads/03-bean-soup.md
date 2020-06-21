@@ -3,7 +3,7 @@ layout: recipe
 title: Bean Soup
 anecdote: This is the basic family recipe that your mother and grandmother perfected over the years. Listed below are also some variations that we have tried and have found to be pretty good. But there is nothing like the original. 
 serving_info: 8 to 10 servings
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ck/07/10/ham-bean-soup-ck-x.jpg?itok=_t_iSCnN
+imageurl: ../assets/downloaded_pics/03-bean-soup_photo.jpg
 ---
 <!-- Ingredients -->
 

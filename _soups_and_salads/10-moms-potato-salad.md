@@ -3,7 +3,7 @@ layout: recipe
 title: Mom's Potato Salad
 anecdote: There is nothing like it. For some it may be an acquired taste. Great for breakfast.
 serving_info: 10 to 15 Servings
-imageurl: http://assets.kraftfoods.com/recipe_images/opendeploy/133850_640x428.jpg
+imageurl: ../assets/downloaded_pics/10-moms-potato-salad_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Waffles with Bacon
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ay/05/bacon-waffles-ay-1875230-x.jpg?itok=34-GOfAF
+imageurl: ../assets/downloaded_pics/01-waffles-with-bacon_photo.jpg
 ---
 <!-- Ingredients -->
 

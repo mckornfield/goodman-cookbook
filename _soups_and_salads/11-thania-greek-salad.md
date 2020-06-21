@@ -3,7 +3,7 @@ layout: recipe
 title: Thania's Greek Salad
 anecdote: We first had this terrific salad at a buffet dinner party at Thania and Tony’s. It is just great! It is important that the ingredients be of the very best taste, especially the tomatoes and the Feta cheese. They control the salad’s flavor.
 serving_info: About 4 servings
-imageurl: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/10/7/0/FNK_Greek-Salad_s4x3.jpg.rend.hgtvcom.406.305.suffix/1383814482359.jpeg
+imageurl: ../assets/downloaded_pics/11-thania-greek-salad_photo.jpg
 ---
 <!-- Ingredients -->
 

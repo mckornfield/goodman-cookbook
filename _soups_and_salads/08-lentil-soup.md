@@ -3,7 +3,7 @@ layout: recipe
 title: Hearty Lentil Soup
 anecdote: Lentils du Puy, sometimes called French green lentils, are our first choice for this recipe, but brown, black, or regular green lentils are fine. Cooking times will vary depending on the type of lentils. Carefully sort through lentils to remove small stones and dirt.
 serving_info: makes 2 quarts, serving 4 to 6
-imageurl: https://www.wholefoodsmarket.com/sites/default/files/media/455.jpg
+imageurl: ../assets/downloaded_pics/08-lentil-soup_photo.jpg
 ---
 <!-- Ingredients -->
 

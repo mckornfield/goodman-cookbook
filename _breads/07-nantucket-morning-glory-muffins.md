@@ -2,7 +2,7 @@
 layout: recipe
 title: Nantucket Morning Glory Muffins
 serving_info: Makes about 40 2" muffins
-imageurl: https://www.afamilyfeast.com/wp-content/uploads/2012/10/morning-glory-muffins-350x350.jpg
+imageurl: ../assets/downloaded_pics/07-nantucket-morning-glory-muffins_photo.jpg
 ---
 <!-- Ingredients -->
 

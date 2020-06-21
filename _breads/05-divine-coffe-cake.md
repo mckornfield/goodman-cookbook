@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Divine Coffee Cake
-imageurl: https://newengland.com/wp-content/uploads/2012/09/crumb-coffee-cake.jpg
+imageurl: ../assets/downloaded_pics/05-divine-coffe-cake_photo.jpg
 ---
 <!-- Ingredients -->
 
