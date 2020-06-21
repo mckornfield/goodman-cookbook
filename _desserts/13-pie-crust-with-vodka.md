@@ -3,7 +3,7 @@ layout: recipe
 title: Pie Crust with Vodka
 serving_info: Makes enough for a 2 crust pie
 anecdote: Vodka is essential to the texture of the crust and imparts no flavor; do not substitute. This dough will be moister and more supple than more standard pie doughs and will require more flour to roll out (up to 1/4 cup)
-imageurl: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto,w_600,h_750,c_fit,fl_strip_profile/https://s3.amazonaws.com/pixtruder/original_images/6a3225c44b740e9169c38563697cab14b9e40ae4 
+imageurl: ../assets/downloaded_pics/13-pie-crust-with-vodka_photo.jpg
 ---
 <!-- Ingredients -->
 

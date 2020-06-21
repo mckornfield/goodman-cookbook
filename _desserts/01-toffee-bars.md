@@ -2,7 +2,7 @@
 layout: recipe
 title: Toffee Bars
 serving_info: Makes 5 dozen
-imageurl: https://www.joyofbaking.com/images/facebook/toffeebars.jpg
+imageurl: ../assets/downloaded_pics/01-toffee-bars_photo.jpg
 ---
 <!-- Ingredients -->
 

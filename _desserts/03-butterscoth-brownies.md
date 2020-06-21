@@ -2,7 +2,7 @@
 layout: recipe
 title: Butterscotch Brownies
 serving_info: Makes 16 squares
-imageurl: https://images.media-allrecipes.com/userphotos/560x315/1043171.jpg
+imageurl: ../assets/downloaded_pics/03-butterscoth-brownies_photo.jpg
 ---
 <!-- Ingredients -->
 

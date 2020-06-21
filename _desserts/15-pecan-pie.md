@@ -2,7 +2,7 @@
 layout: recipe
 title: Pecan Pie
 serving_info: Makes one 9-inch pie
-imageurl: https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/10/19/54/FYx9Lmi6QLyORe9WIxDv_galetteIG.jpg
+imageurl: ../assets/downloaded_pics/15-pecan-pie_photo.jpg
 ---
 <!-- Ingredients -->
 

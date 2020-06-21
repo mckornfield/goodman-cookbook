@@ -2,7 +2,7 @@
 layout: recipe
 title: Smorbruller
 anecdote: As a general rule all Swedish cookies are baked until just barely browned.
-imageurl: https://media.npr.org/assets/img/2017/12/18/smorbullar3_custom-a0eac84f0cbe04e1ed7460ba6a4a9a7f51aff27e-s800-c85.jpg
+imageurl: ../assets/downloaded_pics/08-smorbruller_photo.jpg
 ---
 <!-- Ingredients -->
 

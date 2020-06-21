@@ -2,7 +2,7 @@
 layout: recipe
 title: Sandbakkels
 anecdote: As a general rule all Swedish cookies are baked until just barely browned.
-imageurl: http://images.meredith.com/bhg/images/recipe/p_R146823.jpg
+imageurl: ../assets/downloaded_pics/07-sandbakkels_photo.jpg
 ---
 <!-- Ingredients -->
 

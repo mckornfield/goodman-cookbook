@@ -2,7 +2,7 @@
 layout: recipe
 title: Cuisinart Pastry Dough
 serving_info: Makes 1 pastry shell
-imageurl: https://www.cuisinart.com/share/images/uploads/2297_2297_bigstock-Fresh-Homemade-Apple-Pie-100669337.jpg
+imageurl: ../assets/downloaded_pics/12-cuisinart-pastry-dough_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -2,7 +2,7 @@
 layout: recipe
 title: Krumkaker
 anecdote: As a general rule all Swedish cookies are baked until just barely browned.
-imageurl: http://mylittlenorway.com/wp-content/uploads/2012/11/krumkake-5.jpg
+imageurl: ../assets/downloaded_pics/06-krumkaker_photo.jpg
 ---
 <!-- Ingredients -->
 

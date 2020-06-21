@@ -2,7 +2,7 @@
 layout: recipe
 title: Rosettes
 anecdote: As a general rule all Swedish cookies are baked until just barely browned.
-imageurl: https://i.pinimg.com/originals/2b/86/ba/2b86bab36c1c3006242bb5b2060ccad6.jpg
+imageurl: ../assets/downloaded_pics/09-rosettes_photo.jpg
 ---
 <!-- Ingredients -->
 

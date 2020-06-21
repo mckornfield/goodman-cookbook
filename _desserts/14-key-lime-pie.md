@@ -2,7 +2,7 @@
 layout: recipe
 title: Key Lime Pie
 serving_info: Makes one 9-inch pie
-imageurl: https://dessertswithbenefits.com/wp-content/uploads/2017/03/Healthy-Key-Lime-Pie1-600x400.jpg
+imageurl: ../assets/downloaded_pics/14-key-lime-pie_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -2,7 +2,7 @@
 layout: recipe
 title: Double Chocolate, Chocolate Chip Cookies
 serving_info: Makes about 30 cookies
-imageurl: https://static01.nyt.com/images/2016/12/05/dining/05COOKING-CHOCOLATECHIPCOOKIES1/05COOKING-CHOCOLATECHIPCOOKIES1-articleLarge.jpg 
+imageurl: ../assets/downloaded_pics/02-double-chocolate-chip-cookies_photo.jpg
 ---
 <!-- Ingredients -->
 

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Easy Ice Cream
-imageurl: https://www.twopeasandtheirpod.com/wp-content/uploads/2011/06/strawberry-ice-cream2.jpg
+imageurl: ../assets/downloaded_pics/10-easy-ice-cream_photo.jpg
 ---
 <!-- Ingredients -->
 

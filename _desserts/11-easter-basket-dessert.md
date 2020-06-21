@@ -3,7 +3,7 @@ layout: recipe
 title: Easter Basket Dessert / Meringue Shells
 anecdote: This is a deceptively easy but impressive Easter dessert. Make meringue shells and let them cool. From 1 pint of strawberry, chocolate and pistachio ice creams, make 5 balls of each flavor using a small ice cream scoop.
 serving_info: 5 Servings
-imageurl: https://writtenreality.com/wp-content/uploads/2015/03/Easter-Meringue-Nest1.jpg
+imageurl: ../assets/downloaded_pics/11-easter-basket-dessert_photo.jpg
 ---
 <!-- Ingredients -->
 

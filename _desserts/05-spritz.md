@@ -2,7 +2,7 @@
 layout: recipe
 title: Spritz
 anecdote: As a general rule all Swedish cookies are baked until just barely browned.
-imageurl: https://www.landolakes.com/RecipeManagementSystem/media/Recipe-Media-Files/Recipes/Retail/x17/16787-best-ever-spritz-cookies-(gluten-free-recipe)-600x600.jpg?ext=.jpg
+imageurl: ../assets/downloaded_pics/05-spritz_photo.jpg
 ---
 <!-- Ingredients -->
 

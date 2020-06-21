@@ -2,7 +2,7 @@
 layout: recipe
 title: Old Fashioned Sugar Cookies
 serving_info: Makes about 20 cookies
-imageurl: https://images.meredith.com/content/dam/bhg/Images/2016/8/18/R093032.jpg.rendition.largest.jpg
+imageurl: ../assets/downloaded_pics/04-old-fashioned-sugar-cookies_photo.jpg
 ---
 <!-- Ingredients -->
 
