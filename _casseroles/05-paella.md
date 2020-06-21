@@ -3,7 +3,7 @@ layout: recipe
 title: Paella
 anecdote: This recipe is a combination of several Paella recipes and you are encouraged to try your own variations. We do suggest that the basics of rice, chicken, saffron and chorizo should always be included. It is the contrast of ingredients that makes this dish so delicious and so “wow” when presented. The lobster is optional since it is mostly for decoration. Pan needed&#58; 14” Paella Pan or very large fry pan.
 serving_info: 6 to 8 servings
-imageurl: https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/ck/00/05/spanish-paella-mr-x.jpg?itok=yw_H-lXE
+imageurl: ../assets/downloaded_pics/05-paella_photo.jpg
 ---
 <!-- Ingredients -->
 

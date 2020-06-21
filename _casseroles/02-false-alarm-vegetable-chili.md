@@ -3,7 +3,7 @@ layout: recipe
 title: False Alarm Vegetable Chili
 anecdote: This is a low fat alternative to "Dad's Chili." But not the same.
 serving_info: 10 servings
-imageurl: https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/32/68/1/HGZD6XdRCKyKFZOSVZXg_vegetable%20chili.JPG
+imageurl: ../assets/downloaded_pics/02-false-alarm-vegetable-chili_photo.jpg
 ---
 <!-- Ingredients -->
 

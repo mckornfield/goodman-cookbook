@@ -21,6 +21,13 @@
         <div id="ingredients">
           {{split_recipe[1]}}
         </div>
+        {% if recipe == recipes[-1] %}
+        <div id="picture">
+          {% if page.imageurl %}
+          <img src="{{page.imageurl}}" alt="Recipe"/>
+          {% endif %}
+        </div>
+        {% endif %}
         <div id="steps">
           <h4>Steps:</h4>
           {{split_recipe[2]}}

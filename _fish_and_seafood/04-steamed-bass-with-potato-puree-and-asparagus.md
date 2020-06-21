@@ -43,6 +43,18 @@ to taste | salt and pepper
 * In a small bowl whisk together the lemonjuice, olive oil and chives.
 * Season to taste with salt and pepper.
 <!-- recipe split -->
+Asparagus
+<!-- split -->
+<!-- Ingredients -->
+
+1 pound | asparagus spears, sliced on the diagonal and parboiled
+
+<!-- split -->
+<!-- Steps -->
+* Spoon some of potatoes into center of each plate and top with some of the onions.
+* Place a piece of bass over onions.
+* Arrange asparagus around plate and drizzle remaining vinaigrette over fish and around plate.
+<!-- recipe split -->
 Sea Bass
 <!-- split -->
 <!-- Ingredients -->
@@ -58,18 +70,6 @@ to taste | salt and pepper
 * Season both sides of bass with salt and pepper.
 * Press chives and chervil on top of bass to form a crust.
 * Place bass on steamer rack and steam for 3 minutes, or until just cooked.
-<!-- recipe split -->
-Asparagus
-<!-- split -->
-<!-- Ingredients -->
-
-1 pound | asparagus spears, sliced on the diagonal and parboiled
-
-<!-- split -->
-<!-- Steps -->
-* Spoon some of potatoes into center of each plate and top with some of the onions.
-* Place a piece of bass over onions.
-* Arrange asparagus around plate and drizzle remaining vinaigrette over fish and around plate.
 
 <h4>Assembly</h4>
 Spoon some of potatoes into the center of each plate and top with some of the onions. Place a piece of bass over onions. Arrange asparagus around plate and drizzle remaining vinaigrette over fish and around plate.
