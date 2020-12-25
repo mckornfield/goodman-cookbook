@@ -18,7 +18,7 @@ imageurl: ../assets/downloaded_pics/09-brussel-sprouts.jpg
 1. Prepare brussel sprouts by cutting off ends, peeling back the first layer of leaves, and cutting in half.
 2. Boil water for the brussel sprouts, parboil for 5 minutes
 3. Cook bacon in a pan until mostly crispy, leaving the oil in the pan
-4. Cook the shallots in the grease, about 5-10 minutes
-5. Add the brussel sprouts, heat for a few minutes
-6. Re-add the bacon, heating throughout
+4. Cook the shallots in the grease (draining excess), about 5-10 minutes
+5. Add the brussel sprouts, heat a few minutes
+6. Chop and then add back the bacon, heating throughout
 7. Add the balsamic and remove from heat, salt and pepper to taste
