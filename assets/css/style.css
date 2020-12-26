@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat";
+/ font-family: "Montserrat";
   padding: 20px;
   background: #f1f1f1;
 }
@@ -257,14 +257,18 @@ section {
 
 #email-icon {
   height:40px;
+  width:50px;
 }
 #email-icon-wrapper {
   margin-right: 40px;
 }
 
 #return {
-  height:40px;
-  width:40px;
+  height:46px;
+  width:50px;
+}
+a+a {
+  margin-left: 30px;
 }
 #email--links:hover, #button-links:active {
   background-color: #E77502;
