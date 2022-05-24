@@ -11,9 +11,8 @@ body {
   padding-left: 60px;
   padding-right: 10px;
   padding-bottom: 20px;
-  background: url(recipe_bg.png) top left;
   background-repeat: round;
-  box-shadow: 8px 5px 5px -5px rgba(0,0,0,0.75);
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.75);
   background-size: contain;
   overflow:auto;
 }
@@ -89,13 +88,13 @@ a:focus {
   text-align: center;
   padding-top: 10px;
 }
-
+/*
 #logo {
   min-height: 150px;
   max-height: 300px;
   background: url(goodman_fam.jpg) no-repeat center;
   background-size: contain;
-}
+} */
 
 #ingredients {
   float: left;
