@@ -6,13 +6,6 @@ imageurl: ../assets/downloaded_pics/12-quinoa-chickpea-salad_photo.jpg
 ---
 <!-- Ingredients -->
 
-1 cup | tomatoes
-1 cup | green pepper
-1 cup | peeled cucumber
-1 teaspoon | oregano
-4-6 teaspoons | olive oil
-1/4 lb. | finely crumbled feta cheese
-to taste | salt and pepper
 4 cups | quinoa, cooked (1 cup uncooked,rinsed and cooked according to package directions)
 1 | red bell pepper, diced
 1 | large cucumber, diced
