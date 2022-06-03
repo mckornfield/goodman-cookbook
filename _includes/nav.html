@@ -1,30 +1,24 @@
-{% if page.previous %}
-  <div id="prev">
-    &#x21FD;&nbsp;
-    <a href="{{site.url}}{{site.baseurl}}{{page.previous.url}}">
-        previous
-    </a>
-  </div>
-{% else %}
-  <div id="prev" style="visibility:hidden">
-    &#x21FD;&nbsp;
-    <a href="{{site.url}}{{site.baseurl}}/">
-        previous
-    </a>
-  </div>
-{% endif %}
-{% if page.next %}
-  <div id="next">
-    <a href="{{site.url}}{{site.baseurl}}{{page.next.url}}">
-        next
-    </a>
-    &nbsp;&#x21FE;
-  </div>
-{% else %}
-  <div id="next" style="visibility:hidden">
-    &#x21FD;&nbsp;
-    <a href="{{site.url}}{{site.baseurl}}/">
-        next
-    </a>
-  </div>
-{% endif %}
+<div id="header">
+  {% if page.previous %}
+  <a id="prev" href="{{site.url}}{{site.baseurl}}{{page.previous.url}}">&#x21FD;previous</a>
+  {% else %}
+  <a id="prev" href="{{site.url}}{{site.baseurl}}/" style="visibility:hidden">&#x21FD;previous</a>
+  {% endif %}
+  <a id="return-link" href="{{site.url}}{{site.baseurl}}/">
+    🏠
+  </a>
+  <a id="email-icon"
+    href="mailto:?subject={{page.title}} recipe&amp;body=Check out this recipe {{{site.url}}{{site.baseurl}}{{page.url}}"
+    title="Share by Email">
+    📧
+  </a>
+  {% if page.next %}
+  <a id="next" href="{{site.url}}{{site.baseurl}}{{page.next.url}}">
+    next&#x21FE;
+  </a>
+  {% else %}
+  <a href="{{site.url}}{{site.baseurl}}/" style="visibility:hidden">
+    next
+  </a>
+  {% endif %}
+</div>
