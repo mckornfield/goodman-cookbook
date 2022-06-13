@@ -2,7 +2,7 @@
 layout: about
 title: Letter from the Authors
 ---
-For this website we added some new recipes that we developed over the last few years; some are your suggestions and one is from a friend.
+For this websitev we added some new recipes that we developed over the last few years; some are your suggestions and one is from a friend.
 The recipes have been gathered under some new categories and some have been reclassified.
 We hope this will make the website more user-friendly. As with the first book, we hope you will eventually try all of the recipes.
 The old family favorites continue to bring back a lot of memories whenever we cook them.

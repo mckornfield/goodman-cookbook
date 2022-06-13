@@ -10,81 +10,87 @@
       <input id="search-bar" type="search" placeholder="Search..." class="search">
       <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
       {% for info in site.about %}
-      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>{% endfor %}
+      {% if info.hidden %}
+
+      {% else %}
+        <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>
+      {% endif %}
+      {% endfor %}
     </div>
     <div id="table-of-contents">
-    <section>
-      <h3 id="section-title">Appetizers</h3>
-      <ul id="toc">
-        {% for recipe in site.appetizers %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Soups and Salads</h3>
-      <ul id="toc">
-        {% for recipe in site.soups_and_salads %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Sides</h3>
-      <ul id="toc">
-        {% for recipe in site.sides %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Meats</h3>
-      <ul id="toc">
-        {% for recipe in site.meats %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Poultry</h3>
-      <ul id="toc">
-        {% for recipe in site.poultry %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-    </section>
-    <section>
-      <h3 id="section-title">Fish and Seafood</h3>
-      <ul id="toc">
-        {% for recipe in site.fish_and_seafood %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Pastas and Polenta</h3>
-      <ul id="toc">
-        {% for recipe in site.pastas %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Breads, Muffins and Sandwiches</h3>
-      <ul id="toc">
-        {% for recipe in site.breads %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Mexican Foods</h3>
-      <ul id="toc">
-        {% for recipe in site.mexican %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Casseroles, Stews and Chilis</h3>
-      <ul id="toc">
-        {% for recipe in site.casseroles %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-      <h3 id="section-title">Cookies and Desserts</h3>
-      <ul id="toc">
-        {% for recipe in site.desserts %}
-        <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
-        {% endfor %}
-      </ul>
-    </section> <!-- /table-of-contents -->
+      <section>
+        <h3 id="section-title">Appetizers</h3>
+        <ul id="toc">
+          {% for recipe in site.appetizers %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Soups and Salads</h3>
+        <ul id="toc">
+          {% for recipe in site.soups_and_salads %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Sides</h3>
+        <ul id="toc">
+          {% for recipe in site.sides %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Meats</h3>
+        <ul id="toc">
+          {% for recipe in site.meats %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Poultry</h3>
+        <ul id="toc">
+          {% for recipe in site.poultry %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+      <section>
+        <h3 id="section-title">Fish and Seafood</h3>
+        <ul id="toc">
+          {% for recipe in site.fish_and_seafood %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Pastas and Polenta</h3>
+        <ul id="toc">
+          {% for recipe in site.pastas %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Breads, Muffins and Sandwiches</h3>
+        <ul id="toc">
+          {% for recipe in site.breads %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Mexican Foods</h3>
+        <ul id="toc">
+          {% for recipe in site.mexican %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Casseroles, Stews and Chilis</h3>
+        <ul id="toc">
+          {% for recipe in site.casseroles %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+        <h3 id="section-title">Cookies and Desserts</h3>
+        <ul id="toc">
+          {% for recipe in site.desserts %}
+          <li><a href="{{site.url}}{{site.baseurl}}{{recipe.url}}">{{recipe.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </section> <!-- /table-of-contents -->
     </div>
   </div> <!-- /wrapper -->
 </body>
 <script src="assets/js/search.js"></script>
+
 </html>
