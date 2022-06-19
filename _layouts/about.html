@@ -4,17 +4,22 @@
 
 <body>
     <div id="wrapper">
-        <div id="logo">&nbsp;</div>
-        <h1 id="lefttitle">{{page.title}}</h1>
         <div>
-            {{content}}
+            <h1 id="lefttitle">{{page.title}}</h1>
+            <div id="about-content">
+                {{content}}
+            </div>
+            {% if page.hidden %}
+            <img id="random-gif">
+            {% endif %}
+            <div id="back">
+                <a href="{{site.url}}{{site.baseurl}}/">
+                    Back to table of contents
+                </a>
+            </div> <!-- /back -->
         </div>
-        <div id="back">
-            <a href="{{site.url}}{{site.baseurl}}/">
-                Back to table of contents
-            </a>
-        </div> <!-- /back -->
     </div> <!-- /wrapper -->
 </body>
+<script src="/assets/js/randogif.js"></script>
 
 </html>

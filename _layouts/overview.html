@@ -10,11 +10,11 @@
       <input id="search-bar" type="search" placeholder="Search..." class="search">
       <button id="search-button"><i id="search-icon" class="fa fa-search"></i></button>
       {% for info in site.about %}
-      {% if info.hidden %}
+    {% if info.hidden %}
 
-      {% else %}
-        <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>
-      {% endif %}
+    {% else %}
+      <a id="button-links" href="{{site.url}}{{site.baseurl}}{{info.url}}">{{info.title}}</a>
+    {% endif %}
       {% endfor %}
     </div>
     <div id="table-of-contents">
