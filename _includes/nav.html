@@ -1,24 +1,38 @@
 <div id="header">
-  {% if page.previous %}
-  <a id="prev" href="{{site.url}}{{site.baseurl}}{{page.previous.url}}">&#x21FD;previous</a>
-  {% else %}
-  <a id="prev" href="{{site.url}}{{site.baseurl}}/" style="visibility:hidden">&#x21FD;previous</a>
-  {% endif %}
-  <a id="return-link" href="{{site.url}}{{site.baseurl}}/">
-    🏠
-  </a>
-  <a id="email-icon"
-    href="mailto:?subject={{page.title}} recipe&amp;body=Check out this recipe {{{site.url}}{{site.baseurl}}{{page.url}}"
-    title="Share by Email">
-    📧
-  </a>
-  {% if page.next %}
-  <a id="next" href="{{site.url}}{{site.baseurl}}{{page.next.url}}">
-    next&#x21FE;
-  </a>
-  {% else %}
-  <a href="{{site.url}}{{site.baseurl}}/" style="visibility:hidden">
-    next
-  </a>
-  {% endif %}
+  <div class="nav-container">
+    {% if page.previous %}
+    <a class="nav-btn nav-btn-prev" href="{{site.url}}{{site.baseurl}}{{page.previous.url}}" title="Previous Recipe">
+      <i class="fa fa-chevron-left"></i>
+      <span class="nav-label">Previous</span>
+    </a>
+    {% else %}
+    <div class="nav-btn nav-btn-disabled">
+      <i class="fa fa-chevron-left"></i>
+      <span class="nav-label">Previous</span>
+    </div>
+    {% endif %}
+
+    <div class="nav-actions">
+      <a class="nav-icon-btn" href="{{site.url}}{{site.baseurl}}/" title="Home">
+        <i class="fa fa-home"></i>
+      </a>
+      <a class="nav-icon-btn"
+         href="mailto:?subject={{page.title}} recipe&amp;body=Check out this recipe {{site.url}}{{site.baseurl}}{{page.url}}"
+         title="Share by Email">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </div>
+
+    {% if page.next %}
+    <a class="nav-btn nav-btn-next" href="{{site.url}}{{site.baseurl}}{{page.next.url}}" title="Next Recipe">
+      <span class="nav-label">Next</span>
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% else %}
+    <div class="nav-btn nav-btn-disabled">
+      <span class="nav-label">Next</span>
+      <i class="fa fa-chevron-right"></i>
+    </div>
+    {% endif %}
+  </div>
 </div>

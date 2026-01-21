@@ -13,7 +13,7 @@
       {% endif %}
         <hr>
         <h3 id="subtitle">{{page.first_title}}</h4>
-        <div id="ingredients">
+        <div class="ingredients">
           {{ content | split:"<!-- recipe split -->" | first | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
@@ -30,7 +30,7 @@
         <hr>
 
         <h3 id="subtitle">{{page.second_title}}</h3>
-        <div id="ingredients">
+        <div class="ingredients">
           {{ content | split:"<!-- recipe split -->" | last | split:"<!-- split -->" | first }}
         </div> <!-- /ingredients -->
         <div id="picture">
@@ -45,5 +45,6 @@
         </div> <!-- /steps -->
 
     </div> <!-- /wrapper -->
+    <script src="{{site.url}}{{site.baseurl}}/assets/js/ingredients.js"></script>
   </body>
 </html>

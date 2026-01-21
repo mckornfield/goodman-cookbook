@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Ingredients and Techniques
+title: 👩‍🔬👨‍🔬
 ---
-<i>A few words of explanation for some of the ingredients and directions in this website:</i>
+<b>Ingredients and Techniques</b>
 <br><br>
 Olive oil is “extra virgin.” 
 <br><br>
