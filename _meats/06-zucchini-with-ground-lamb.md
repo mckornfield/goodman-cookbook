@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Zuchini with Ground Lamb
+title: Zucchini with Ground Lamb
 serving_info: 4 servings
 imageurl: ../assets/downloaded_pics/06-zucchini-with-ground-lamb_photo.jpg
 ---
@@ -12,7 +12,7 @@ imageurl: ../assets/downloaded_pics/06-zucchini-with-ground-lamb_photo.jpg
 | 1 | shallot, diced |
 | 2 tablespoons | olive oil |
 | 1 teaspoon | salt |
-| 3 | medium zuchini, sliced |
+| 3 | medium zucchini, sliced |
 | 8 oz. | tomato sauce |
 | 1 teaspoon | basil |
 | 1 teaspoon | oregano |

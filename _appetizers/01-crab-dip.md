@@ -20,7 +20,7 @@ imageurl: ../assets/downloaded_pics/01-crab-dip_photo.jpg
 * Combine all ingredients except the almonds
 * Put in ceramic ovenproof serving dish
 * Top with almonds and bake at 375° for 30 minutes
-* Serve with gounnet crackers
+* Serve with gourmet crackers
 
 
 <!-- |2 cups|whole almonds blanched|

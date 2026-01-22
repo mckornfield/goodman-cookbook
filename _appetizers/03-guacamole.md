@@ -5,7 +5,7 @@ imageurl: ../assets/downloaded_pics/03-guacamole_photo.jpg
 ---
 <!-- Ingredients -->
 
-| 3 | medium ripe avoados | 
+| 3 | medium ripe avocados |
 | 1⁄3 | onion, chopped |
 | 1⁄2 cup | medium salsa|
 | 2 teaspoons | Worcestershire sauce |

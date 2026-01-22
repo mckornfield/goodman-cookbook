@@ -14,7 +14,7 @@ imageurl: ../assets/downloaded_pics/10-new-orleans-muffaletta_photo.jpg
 2 tablespoons | celery, diced small
 2 tablespoons | parsley, chopped
 1 1/2 teaspoons | fine ground black pepper
-1 | 10-inch muffalata bun, sliced across or ciabata loaf
+1 | 10-inch muffalata bun, sliced across or ciabatta loaf
 2 oz. | provolone cheese
 2 oz. | cotto salami, thinly sliced
 2 oz. | smoked ham, thinly sliced

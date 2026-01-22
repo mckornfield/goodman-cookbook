@@ -40,7 +40,7 @@ to taste | salt and pepper
 
 <!-- split -->
 <!-- Steps -->
-* In a small bowl whisk together the lemonjuice, olive oil and chives.
+* In a small bowl whisk together the lemon juice, olive oil and chives.
 * Season to taste with salt and pepper.
 <!-- recipe split -->
 Asparagus

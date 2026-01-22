@@ -20,7 +20,7 @@ imageurl: ../assets/downloaded_pics/04-old-fashioned-sugar-cookies_photo.jpg
 1. Sift together flour, baking powder and salt. Set aside.
 2. Cream butter in a large electric mixer. Add the vanilla, sugar and beat well.
 3. Beat in eggs, one at a time, and then add milk. On low speed gradually add sifted ingredients. Scrape sides of bowl as necessary and beat only until thoroughly mixed.
-4. Divide dough in half and wrap each in plastic wrap and chill in refigerator for 3 hours or more.
+4. Divide dough in half and wrap each in plastic wrap and chill in refrigerator for 3 hours or more.
 5. Adjust oven racks to divide the oven in thirds. Preheat to 400°
 6. Place one package of dough on a lightly floured board. Flour on all sides and form into a ball. Roll dough to a generous 1/4". Cut cookies as you wish. For very large cookies cut with a 4" cookie cutter.
 7. Transfer cookies to an unbuttered cookie sheet using a spatula. Place them 1 1/2" to 2" apart. Sprinkle the top with granulated sugar.

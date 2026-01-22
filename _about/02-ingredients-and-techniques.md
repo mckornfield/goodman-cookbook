@@ -12,13 +12,13 @@ Pepper is freshly ground.
 <br><br>
 Salt is kosher except in baking recipes. If you wish to use regular table salt in these recipes, you will need to reduce the amount by one-quarter to make up for the space taken up by the larger kosher grains. We tend to use salt sparingly, so your taste may require an adjustment. 
 <br><br>
-Unless othenvise indicated, the spices and their measurements are for dried. If you substitute fresh, be sure to use two to three times the amount listed since fresh spices contain a lot of moisture. In some long simmering or roasted dishes, fresh spices can get bitter if cooked too long, so it is best to use them near the end of the cooking process. 
+Unless otherwise indicated, the spices and their measurements are for dried. If you substitute fresh, be sure to use two to three times the amount listed since fresh spices contain a lot of moisture. In some long simmering or roasted dishes, fresh spices can get bitter if cooked too long, so it is best to use them near the end of the cooking process. 
 <br><br>
 The butter is always unsalted.
 <br><br>
 We also found a few techniques that, to us, make a big difference in the final outcome. Listed below are a couple of these:
 <br><br>
-<b>Brining</b>: We find that chicken and pork are juicer and shrimp are finner when brined. If you use kosher chicken, it does not need to be brined as that is part of the koshering process.
+<b>Brining</b>: We find that chicken and pork are juicier and shrimp are firmer when brined. If you use kosher chicken, it does not need to be brined as that is part of the koshering process.
 <br><br>
 For chicken and pork: in a one-gallon storage bag or bowl, dissolve one-half cup kosher salt and one-quarter cup sugar in one gallon of water. Place chicken or pork in the brine and refrigerate for one hour; any longer and they will be too salty. Rinse, pat thy and then cook by the recipe method.
 <br><br>

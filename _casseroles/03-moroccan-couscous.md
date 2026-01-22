@@ -54,7 +54,7 @@ Moroccan Couscous (sans above sauces)
 12 | carrots, cut into pieces
 1/2 | sm. head cabbage, cut into wedges
 1 | green pepper, cut into strips
-2 | small zuchini, sliced
+2 | small zucchini, sliced
 3 | hot peppers, seeded & finely diced
 
 <!-- split -->
@@ -64,5 +64,5 @@ Moroccan Couscous (sans above sauces)
 3. Meanwhile, spread the couscous on a large platter and sprinkle with water. Mix lightly with fingers grains are moistened. Line top of the steamer or colander with cheesecloth. Drop moistened grains into cheesecloth. Do not pack down.
 4. Lower steamer or colander into top of stockpot and cover tightly. Grains will cook in the steam and absorb flavors from lamb. Stir grains once or twice during steaming to break up any lumps.
 5. After lamb has simmered for 45 minutes add turnips, onions and carrots. Cook 15 minutes longer. Add zucchini, cabbage and green pepper. Cook for 10 more minutes, until vegetables are tender. Taste sauce and adjust seasoning to taste.
-6. Spread couscous on a large, wanned, serving platter. Gradually add the liquid from lamb stew, stirring couscous until it will not absorb any more. Cover with foil and let stand for 7 minutes. Add liquid to couscous until it will not absorb any more.
+6. Spread couscous on a large, warmed, serving platter. Gradually add the liquid from lamb stew, stirring couscous until it will not absorb any more. Cover with foil and let stand for 7 minutes. Add liquid to couscous until it will not absorb any more.
 7. Push grains into a rounded mound in center of platter. Arrange lamb and vegetables in an attractive pattern around the mound. Serve with sauce piquant.

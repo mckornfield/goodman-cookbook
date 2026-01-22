@@ -14,7 +14,7 @@ imageurl: ../assets/downloaded_pics/04-pasta-puttanesca_photo.jpg
 1/4 cup | capers, drained and rinsed
 3 | anchovies, salt or 6 oil packed filets, drained and rinsed and finely chopped
 4 tablespoons | parsley, finely minced
-1 teasoon | dried oragno, crushed
+1 teaspoon | dried oregano, crushed
 3 cloves | garlic, finely minced
 to taste | salt and pepper
 1/2 teaspoon | crushed red pepper
@@ -23,5 +23,5 @@ to taste | salt and pepper
 <!-- Steps -->
 
 1. Bring 6 quarts of water to a boil. Add 1 tablespoon salt.
-2. Heat olive oil over moderate flame in a sauté pan. Add garlic and sauté until browned, about 2 minutes. Stir in crushed red pepper. Add tomatoes, olives and capers. Cook over moderate heat for 10 rninutes.Add anchovies to pan. Stir in parsley and oregano and cook for two minutes. Adjust seasoning.
+2. Heat olive oil over moderate flame in a sauté pan. Add garlic and sauté until browned, about 2 minutes. Stir in crushed red pepper. Add tomatoes, olives and capers. Cook over moderate heat for 10 minutes. Add anchovies to pan. Stir in parsley and oregano and cook for two minutes. Adjust seasoning.
 3. Add pasta to boiling water and cook until al dente, about 9 minutes. Drain and toss in sauté pan with sauce. Garnish with chopped parsley and serve immediately.

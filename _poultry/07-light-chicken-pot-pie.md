@@ -44,6 +44,6 @@ imageurl_two: ../assets/downloaded_pics/07-light-chicken-pot-pie_photo_two.jpg
 <!-- split -->
 <!-- Steps -->
 1. Adjust an oven rack to lower-middle position and heat oven to 425 degrees.
-2. Whisk flour, baking powder, baking soda and salt together in a large bowl. In a separate bowl, whisk melted butter and butterniillc together. Gently stir buttermilk mixture into flour mixture with a rubber spatula until just combined and no pockets of flour remain. 
+2. Whisk flour, baking powder, baking soda and salt together in a large bowl. In a separate bowl, whisk melted butter and buttermilk together. Gently stir buttermilk mixture into flour mixture with a rubber spatula until just combined and no pockets of flour remain. 
 <h3>Assembly</h3>
-Pinch off 8 equal pieces of the biscuit dough and arrange them on top of the hot filling, spaced 1⁄4 inch apart. Bake until the biscuits are golden and the filling is bubbly, about 20 minutes. Cool for 5 to 10 minutes before serving. 
+Pinch off 8 equal pieces of the biscuit dough and arrange them on top of the hot filling, spaced 1⁄4 inch apart. Bake until the biscuits are golden and the filling is bubbly, about 20 minutes. Cool for 5 to 10 minutes before serving.

@@ -25,4 +25,4 @@ imageurl: ../assets/downloaded_pics/06-turkey-meatloaf_photo.jpg
 <!-- Steps -->
 1. Preheat oven to 325°.
 2. In a medium sauté pan over medium-low heat, cook the olive oil, onions, salt, pepper, carrot, and thyme until translucent, but not browned, about 15 minutes. Add tomato paste and brown for 30 seconds. Add stock, mix well and cool to room temperature.
-3. In a large bowl, combine the turkey, bread crumbs, eggs aiid onion mixture. Mix well and shape into a rectangular loaf on an ungreased rimmed baking sheet. Spread ketchup evenly on top and bake for 1/2 hours until the internal temperature is 160°. 
+3. In a large bowl, combine the turkey, bread crumbs, eggs and onion mixture. Mix well and shape into a rectangular loaf on an ungreased rimmed baking sheet. Spread ketchup evenly on top and bake for 1/2 hours until the internal temperature is 160°.

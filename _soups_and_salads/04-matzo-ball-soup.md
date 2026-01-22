@@ -18,7 +18,7 @@ imageurl: ../assets/downloaded_pics/04-matzo-ball-soup_photo.jpg
 
 <!-- split -->
 <!-- Steps -->
-1. Place all ingredients, except meat and maizo balls, in large stockpot.
+1. Place all ingredients, except meat and matzo balls, in large stockpot.
 2. Bring to a boil and then simmer, uncovered, for 30 minutes.
 3. Add meat.
 4. For matzo balls, use recipe on box, adding a pinch of nutmeg. Render fat reserved from chicken and use in place of oil in matzo ball recipe. Instead of cooking matzo balls in water, drop them into the simmering soup.

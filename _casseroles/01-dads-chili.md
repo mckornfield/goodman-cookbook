@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Dad's Chili
-anecdote: The main secret to this recipe is to use dried chiles and whole cumin seed that are toasted and ground. The vegetable ingredients and canned tomatoes should be chopped small so that they blend smoothly into the sauce. It is important that the chili simmer at as low a heat as possible. We have tried substituting ground turkey in this dish to reduce the fat content and it just does not work. The best way to get the lowest fat content is to use ground beef that has about 20% fat and spoon off the excess fat as you brown it. We nommily make a double batch. Chili is even better the next day and freezes very well.
+anecdote: The main secret to this recipe is to use dried chiles and whole cumin seed that are toasted and ground. The vegetable ingredients and canned tomatoes should be chopped small so that they blend smoothly into the sauce. It is important that the chili simmer at as low a heat as possible. We have tried substituting ground turkey in this dish to reduce the fat content and it just does not work. The best way to get the lowest fat content is to use ground beef that has about 20% fat and spoon off the excess fat as you brown it. We normally make a double batch. Chili is even better the next day and freezes very well.
 imageurl: ../assets/downloaded_pics/01-dads-chili_photo.jpg 
 ---
 <!-- Ingredients -->

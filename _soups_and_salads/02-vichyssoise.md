@@ -19,5 +19,5 @@ imageurl: ../assets/downloaded_pics/02-vichyssoise_photo.jpg
 <!-- split -->
 <!-- Steps -->
 1. In a deep pot, brown leeks and onion very lightly in the butter. Add potatoes, broth and salt and boil for 35 minutes until very tender. Puree in a processor or blender. Return pureed mixture to pot, add milk and one cup of the cream, bring to a boil.
-2. Rub through a sieve (we never do except for company). Cool and then chill in the refrigemtor.
+2. Rub through a sieve (we never do except for company). Cool and then chill in the refrigerator.
 3. Stir in remaining cream. Chill thoroughly and serve garnished with chives. 

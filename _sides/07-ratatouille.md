@@ -8,7 +8,7 @@ imageurl: ../assets/downloaded_pics/07-ratatouille_photo.jpg
 <!-- Ingredients -->
 
 | 1/2 lb. | eggplant |
-| 1/2 lb. | zuchini |
+| 1/2 lb. | zucchini |
 | 1 teaspoon | salt |
 | 4 tablespoons | olive oil |
 | 1 1/2 | onions, thinly sliced |

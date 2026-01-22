@@ -12,7 +12,7 @@ Looking back we find that great food and great meals have been an important part
 Particularly when one or more of you were with us. We know that this is also true for you.
 <br><br>
 We have eaten some spectacular meals all over the world. We seem never to have met a culture that we did not enjoy.
-We also learned what it means to emerging cultures that have never developed a cuisine or have lost one when decades of war or impoverishment devastated it. For us the most memorable dish of all was Truffe en Crote in France.
+We also learned what it means to emerging cultures that have never developed a cuisine or have lost one when decades of war or impoverishment devastated it. For us the most memorable dish of all was Truffe en Croute in France.
 A whole truffle, just smaller than a golf ball, covered in pate and baked in a fabulous pastry. Can taste it to this day.
 <br><br>
 Trips with many of you to Italy, Greece, Vietnam, Morocco, France and England were not only a lot of fun but also instructive.

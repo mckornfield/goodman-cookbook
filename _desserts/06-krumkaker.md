@@ -20,8 +20,8 @@ imageurl: ../assets/downloaded_pics/06-krumkaker_photo.jpg
 1. Sift together flour, cornstarch and cardamom.
 2. Cream butter until softened.
 3. Gradually add sugar. Creaming until fluffy after each addition.
-4. Add egg yolks individuall, making sure to thoroughly beat in each egg.
-5. Add dry ingredients in fourths. Blend throoughly after each addition.
+4. Add egg yolks individually, making sure to thoroughly beat in each egg.
+5. Add dry ingredients in fourths. Blend thoroughly after each addition.
 6. Beat egg whites with salt until rounded peaks are formed. Spread egg whites over batter an gently fold together.
 7. Heat krumkaker iron over stove until a drop of water "sputters" on its hor surface.
 8. Spoon about 1 1/2 - 2 teaspoons of batter onto hot iron. Close iron and cook each side for a few seconds or until lightly browned.
