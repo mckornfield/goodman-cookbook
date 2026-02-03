@@ -61,3 +61,7 @@ typings/
 .next
 _site/
 .jekyll-cache/
+
+# Ruby bundler
+vendor/bundle
+.bundle
